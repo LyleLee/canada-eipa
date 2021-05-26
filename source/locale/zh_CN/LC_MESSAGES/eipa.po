@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../source/eipa.rst:3
 msgid "Canada Export and Import Permit Act"
-msgstr ""
+msgstr "加拿大出口和进口许可条例"
 
 #: ../../source/eipa.rst
 msgid "Export and Import Permits Act"
@@ -34,11 +34,11 @@ msgstr ""
 msgid ""
 "An Act respecting the export, transfer and brokering of goods and "
 "technology and the import of goods"
-msgstr ""
+msgstr "本法规定物品和技术出口、转移、代理；物品的进口；"
 
 #: ../../source/eipa.rst
 msgid "Short Title"
-msgstr ""
+msgstr "短标题"
 
 #: ../../source/eipa.rst:28
 msgid "Marginal note:Short title"
