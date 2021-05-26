@@ -10,7 +10,7 @@ Canada' Export Import Permit Act
    :maxdepth: 2
    :caption: Contents:
 
-   eipa
+   eipa.rst
 
 
 Indices and tables

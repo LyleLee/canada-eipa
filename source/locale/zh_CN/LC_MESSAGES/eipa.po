@@ -1,0 +1,5140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, lixianfa
+# This file is distributed under the same license as the canada-eipa
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: canada-eipa \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-26 16:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/eipa.rst:3
+msgid "Canada Export and Import Permit Act"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Export and Import Permits Act"
+msgstr ""
+
+#: ../../source/eipa.rst:17
+msgid "R.S.C., 1985, c. E-19"
+msgstr ""
+
+#: ../../source/eipa.rst:19
+msgid ""
+"An Act respecting the export, transfer and brokering of goods and "
+"technology and the import of goods"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Short Title"
+msgstr ""
+
+#: ../../source/eipa.rst:28
+msgid "Marginal note:Short title"
+msgstr ""
+
+#: ../../source/eipa.rst:30
+msgid ""
+"**1** This Act may be cited as the `Export and Import Permits Act "
+"</eng/acts/E-19>`__."
+msgstr ""
+
+#: ../../source/eipa.rst:35
+msgid "R.S., c. E-17, s. 1"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Interpretation"
+msgstr ""
+
+#: ../../source/eipa.rst:41 ../../source/eipa.rst:880
+#: ../../source/eipa.rst:1443 ../../source/eipa.rst:1907
+msgid "Marginal note:Definitions"
+msgstr ""
+
+#: ../../source/eipa.rst:43
+msgid "**2** (1) In this Act,"
+msgstr ""
+
+#: ../../source/eipa.rst:47
+msgid "Area Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:46
+msgid ""
+"Area Control List means a list of countries established under section 4; "
+"(liste des pays visés)"
+msgstr ""
+
+#: ../../source/eipa.rst:52
+msgid "Automatic Firearms Country Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:50
+msgid ""
+"Automatic Firearms Country Control List means a list of countries "
+"established under section 4.1; (liste des pays désignés (armes "
+"automatiques))"
+msgstr ""
+
+#: ../../source/eipa.rst:59 ../../source/eipa.rst:425
+msgid "broker"
+msgstr ""
+
+#: ../../source/eipa.rst:55 ../../source/eipa.rst:418
+msgid ""
+"broker means to arrange or negotiate a transaction that relates to the "
+"movement of goods or technology included in a Brokering Control List from"
+" a foreign country to another foreign country, including a transaction "
+"referred to in subsection (1.1); (courtage)"
+msgstr ""
+
+#: ../../source/eipa.rst:64 ../../source/eipa.rst:431
+msgid "Brokering Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:62 ../../source/eipa.rst:428
+msgid ""
+"Brokering Control List means a list of goods and technology established "
+"under section 4.11; (liste des marchandises de courtage contrôlé)"
+msgstr ""
+
+#: ../../source/eipa.rst:69 ../../source/eipa.rst:4666
+#: ../../source/eipa.rst:4774
+msgid "CCFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:67
+msgid ""
+"CCFTA has the same meaning as Agreement in subsection 2(1) of the "
+"`Canada-Chile Free Trade Agreement Implementation Act "
+"</eng/acts/C-1.6>`__; (ALÉCC)"
+msgstr ""
+
+#: ../../source/eipa.rst:74 ../../source/eipa.rst:4670
+#: ../../source/eipa.rst:4776
+msgid "CCRFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:72
+msgid ""
+"CCRFTA has the same meaning as Agreement in subsection 2(1) of the Canada"
+" — Costa Rica Free Trade Agreement Implementation Act; (ALÉCCR)"
+msgstr ""
+
+#: ../../source/eipa.rst:80 ../../source/eipa.rst:4674
+#: ../../source/eipa.rst:4778
+msgid "CETA"
+msgstr ""
+
+#: ../../source/eipa.rst:77
+msgid ""
+"CETA has the same meaning as Agreement in section 2 of the "
+"`Canada–European Union Comprehensive Economic and Trade Agreement "
+"Implementation Act </eng/acts/C-4.8>`__; (AÉCG)"
+msgstr ""
+
+#: ../../source/eipa.rst:85 ../../source/eipa.rst:4679
+#: ../../source/eipa.rst:4782
+msgid "CHFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:83
+msgid ""
+"CHFTA has the same meaning as Agreement in section 2 of the "
+"`Canada–Honduras Economic Growth and Prosperity Act "
+"</eng/acts/C-6.10>`__; (ALÉCH)"
+msgstr ""
+
+#: ../../source/eipa.rst:89 ../../source/eipa.rst:320
+#: ../../source/eipa.rst:4873
+msgid "Chile"
+msgstr ""
+
+#: ../../source/eipa.rst:88
+msgid ""
+"Chile has the same meaning as in subsection 2(1) of the `Customs Tariff "
+"</eng/acts/C-54.011>`__; (Chili)"
+msgstr ""
+
+#: ../../source/eipa.rst:94
+msgid "CIFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:92
+msgid ""
+"CIFTA has the same meaning as Agreement in subsection 2(1) of the "
+"`Canada-Israel Free Trade Agreement Implementation Act "
+"</eng/acts/C-6.4>`__; (ALÉCI)"
+msgstr ""
+
+#: ../../source/eipa.rst:98 ../../source/eipa.rst:4619
+msgid "Colombia"
+msgstr ""
+
+#: ../../source/eipa.rst:97
+msgid ""
+"Colombia has the same meaning as in subsection 2(1) of the `Customs "
+"Tariff </eng/acts/C-54.011>`__; (Colombie)"
+msgstr ""
+
+#: ../../source/eipa.rst:102 ../../source/eipa.rst:330
+#: ../../source/eipa.rst:4880
+msgid "Costa Rica"
+msgstr ""
+
+#: ../../source/eipa.rst:101
+msgid ""
+"Costa Rica has the same meaning as in subsection 2(1) of the `Customs "
+"Tariff </eng/acts/C-54.011>`__; (Costa Rica)"
+msgstr ""
+
+#: ../../source/eipa.rst:108
+msgid "CPTPP"
+msgstr ""
+
+#: ../../source/eipa.rst:105
+msgid ""
+"CPTPP has the same meaning as Agreement in section 2 of the "
+"`Comprehensive and Progressive Agreement for Trans-Pacific Partnership "
+"Implementation Act </eng/acts/C-36.45>`__; (PTPGP)"
+msgstr ""
+
+#: ../../source/eipa.rst:113 ../../source/eipa.rst:340
+msgid "CPTPP country"
+msgstr ""
+
+#: ../../source/eipa.rst:111
+msgid ""
+"CPTPP country has the same meaning as in subsection 2(1) of the `Customs "
+"Tariff </eng/acts/C-54.011>`__; (pays PTPGP)"
+msgstr ""
+
+#: ../../source/eipa.rst:119 ../../source/eipa.rst:556
+#: ../../source/eipa.rst:4682 ../../source/eipa.rst:4784
+msgid "CUKTCA"
+msgstr ""
+
+#: ../../source/eipa.rst:116
+msgid ""
+"CUKTCA has the meaning assigned by the definition Agreement in section 2 "
+"of the `Canada–United Kingdom Trade Continuity Agreement Implementation "
+"Act </eng/acts/C-10.56>`__; (ACCCRU)"
+msgstr ""
+
+#: ../../source/eipa.rst:125 ../../source/eipa.rst:350
+#: ../../source/eipa.rst:560 ../../source/eipa.rst:4887
+msgid "CUKTCA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:122
+msgid ""
+"CUKTCA beneficiary has the same meaning as in subsection 2(1) of the "
+"`Customs Tariff </eng/acts/C-54.011>`__; (bénéficiaire de l’ACCCRU)"
+msgstr ""
+
+#: ../../source/eipa.rst:131 ../../source/eipa.rst:502
+#: ../../source/eipa.rst:4689 ../../source/eipa.rst:4790
+msgid "CUSMA"
+msgstr ""
+
+#: ../../source/eipa.rst:128
+msgid ""
+"CUSMA has the meaning assigned by the definition Agreement in section 2 "
+"of the `Canada–United States–Mexico Agreement Implementation Act "
+"</eng/acts/C-10.65>`__; (ACEUM)"
+msgstr ""
+
+#: ../../source/eipa.rst:135 ../../source/eipa.rst:505
+#: ../../source/eipa.rst:4897
+msgid "CUSMA country"
+msgstr ""
+
+#: ../../source/eipa.rst:134
+msgid "CUSMA country means a country that is a party to CUSMA; (pays ACEUM)"
+msgstr ""
+
+#: ../../source/eipa.rst:139
+msgid "data"
+msgstr ""
+
+#: ../../source/eipa.rst:138
+msgid ""
+"data means representations, in any form, of information or concepts; "
+"(données)"
+msgstr ""
+
+#: ../../source/eipa.rst:145 ../../source/eipa.rst:4902
+msgid "EU country or other CETA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:142
+msgid ""
+"EU country or other CETA beneficiary has the same meaning as in "
+"subsection 2(1) of the `Customs Tariff </eng/acts/C-54.011>`__; (pays de "
+"l’Union européenne ou autre bénéficiaire de l’AÉCG)"
+msgstr ""
+
+#: ../../source/eipa.rst:150
+msgid "export allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:148
+msgid ""
+"export allocation means an export allocation issued under paragraph "
+"6.2(2)(b) or 6.3(3)(b); (autorisation d’exportation)"
+msgstr ""
+
+#: ../../source/eipa.rst:155
+msgid "Export Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:153
+msgid ""
+"Export Control List means a list of goods and technology established "
+"under section 3; (liste des marchandises d’exportation contrôlée)"
+msgstr ""
+
+#: ../../source/eipa.rst:159 ../../source/eipa.rst:435
+msgid "foreign country"
+msgstr ""
+
+#: ../../source/eipa.rst:158 ../../source/eipa.rst:434
+msgid "foreign country means a country other than Canada; (pays étranger)"
+msgstr ""
+
+#: ../../source/eipa.rst:162
+msgid "Free Trade Agreement"
+msgstr ""
+
+#: ../../source/eipa.rst:162
+msgid "Free Trade Agreement[Repealed, 1997, c. 14, s. 70]"
+msgstr ""
+
+#: ../../source/eipa.rst:178
+msgid "free trade partner"
+msgstr ""
+
+#: ../../source/eipa.rst:165
+msgid "free trade partner means"
+msgstr ""
+
+#: ../../source/eipa.rst:167 ../../source/eipa.rst:489
+msgid "(a) a CUSMA country,"
+msgstr ""
+
+#: ../../source/eipa.rst:169
+msgid "(a.1) an EU country or other CETA beneficiary,"
+msgstr ""
+
+#: ../../source/eipa.rst:171
+msgid "(a.2) CPTPP country,"
+msgstr ""
+
+#: ../../source/eipa.rst:173
+msgid "(b) Chile,"
+msgstr ""
+
+#: ../../source/eipa.rst:175
+msgid "(c) Israel or another CIFTA beneficiary, or"
+msgstr ""
+
+#: ../../source/eipa.rst:177 ../../source/eipa.rst:541
+msgid "(d) a CUKTCA beneficiary; (partenaire de libre-échange)"
+msgstr ""
+
+#: ../../source/eipa.rst:182
+msgid "goods imported from a NAFTA country"
+msgstr ""
+
+#: ../../source/eipa.rst:181
+msgid "goods imported from a NAFTA country[Repealed, 1997, c. 14, s. 70]"
+msgstr ""
+
+#: ../../source/eipa.rst:186
+msgid "goods imported from Israel or another CIFTA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:185
+msgid ""
+"goods imported from Israel or another CIFTA beneficiary[Repealed, 1997, "
+"c. 36, s. 207]"
+msgstr ""
+
+#: ../../source/eipa.rst:190 ../../source/eipa.rst:360
+#: ../../source/eipa.rst:4910
+msgid "Honduras"
+msgstr ""
+
+#: ../../source/eipa.rst:189
+msgid ""
+"Honduras has the same meaning as in subsection 2(1) of the `Customs "
+"Tariff </eng/acts/C-54.011>`__; (Honduras)"
+msgstr ""
+
+#: ../../source/eipa.rst:194
+msgid "import allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:193
+msgid ""
+"import allocation means an import allocation issued under paragraph "
+"6.2(2)(b); (autorisation d’importation)"
+msgstr ""
+
+#: ../../source/eipa.rst:199
+msgid "Import Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:197
+msgid ""
+"Import Control List means a list of goods established under section 5; "
+"(liste des marchandises d’importation contrôlée)"
+msgstr ""
+
+#: ../../source/eipa.rst:205
+msgid "imported from Israel or another CIFTA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:202
+msgid ""
+"imported from Israel or another CIFTA beneficiary has the meaning "
+"assigned by regulations made under section 52 of the `Customs Tariff "
+"</eng/acts/C-54.011>`__; (importé d’Israël ou d’un autre bénéficiaire de "
+"l’ALÉCI)"
+msgstr ""
+
+#: ../../source/eipa.rst:211
+msgid "Israel or another CIFTA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:208
+msgid ""
+"Israel or another CIFTA beneficiary has the same meaning as in subsection"
+" 2(1) of the `Customs Tariff </eng/acts/C-54.011>`__; (Israël ou autre "
+"bénéficiaire de l’ALÉCI)"
+msgstr ""
+
+#: ../../source/eipa.rst:216
+msgid "Minister"
+msgstr ""
+
+#: ../../source/eipa.rst:214
+msgid ""
+"Minister means such member of the Queen’s Privy Council for Canada as is "
+"designated by the Governor in Council as the Minister for the purposes of"
+" this Act; (ministre)"
+msgstr ""
+
+#: ../../source/eipa.rst:219
+msgid "NAFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:219
+msgid "NAFTA[Repealed, 2020, c. 1, s. 40]"
+msgstr ""
+
+#: ../../source/eipa.rst:222
+msgid "NAFTA country"
+msgstr ""
+
+#: ../../source/eipa.rst:222
+msgid "NAFTA country[Repealed, 2020, c. 1, s. 40]"
+msgstr ""
+
+#: ../../source/eipa.rst:226 ../../source/eipa.rst:439
+msgid "organization"
+msgstr ""
+
+#: ../../source/eipa.rst:225
+msgid ""
+"organization has the same meaning as in section 2 of the `Criminal Code "
+"</eng/acts/C-46>`__; (organisation)"
+msgstr ""
+
+#: ../../source/eipa.rst:230 ../../source/eipa.rst:4629
+msgid "Panama"
+msgstr ""
+
+#: ../../source/eipa.rst:229
+msgid ""
+"Panama has the same meaning as in subsection 2(1) of the `Customs Tariff "
+"</eng/acts/C-54.011>`__; (Panama)"
+msgstr ""
+
+#: ../../source/eipa.rst:234 ../../source/eipa.rst:4639
+msgid "Peru"
+msgstr ""
+
+#: ../../source/eipa.rst:233
+msgid ""
+"Peru has the same meaning as in subsection 2(1) of the `Customs Tariff "
+"</eng/acts/C-54.011>`__; (Pérou)"
+msgstr ""
+
+#: ../../source/eipa.rst:240
+msgid "record"
+msgstr ""
+
+#: ../../source/eipa.rst:237
+msgid ""
+"record means any material on which data are recorded or marked and which "
+"is capable of being read or understood by a person or a computer system "
+"or other device; (registre)"
+msgstr ""
+
+#: ../../source/eipa.rst:247
+msgid "resident of Canada"
+msgstr ""
+
+#: ../../source/eipa.rst:243
+msgid ""
+"resident of Canada means, in the case of a natural person, a person who "
+"ordinarily resides in Canada and, in the case of a corporation, a "
+"corporation having its head office in Canada or operating a branch office"
+" in Canada; (résident du Canada)"
+msgstr ""
+
+#: ../../source/eipa.rst:255
+msgid "softwood lumber agreement"
+msgstr ""
+
+#: ../../source/eipa.rst:250
+msgid ""
+"softwood lumber agreement means the Softwood Lumber Agreement between the"
+" Government of Canada and the Government of the United States of America "
+"signed on September 12, 2006 and amended on October 12, 2006, and "
+"includes any rectifications made to it before its ratification by Canada;"
+" (accord sur le bois d’oeuvre)"
+msgstr ""
+
+#: ../../source/eipa.rst:261 ../../source/eipa.rst:407
+msgid "technology"
+msgstr ""
+
+#: ../../source/eipa.rst:258 ../../source/eipa.rst:403
+msgid ""
+"technology includes technical data, technical assistance and information "
+"necessary for the development, production or use of an article included "
+"in an Export Control List or a Brokering Control List; (technologie)"
+msgstr ""
+
+#: ../../source/eipa.rst:266
+msgid "transfer"
+msgstr ""
+
+#: ../../source/eipa.rst:264
+msgid ""
+"transfer means, in relation to technology, to dispose of it or disclose "
+"its content in any manner from a place in Canada to a place outside "
+"Canada; (transfert)"
+msgstr ""
+
+#: ../../source/eipa.rst:273
+msgid "World Trade Organization Agreement"
+msgstr ""
+
+#: ../../source/eipa.rst:269
+msgid ""
+"World Trade Organization Agreement has the same meaning as the word "
+"Agreement in subsection 2(1) of the `World Trade Organization Agreement "
+"Implementation Act </eng/acts/W-11.8>`__. (Accord sur l’Organisation "
+"mondiale du commerce)"
+msgstr ""
+
+#: ../../source/eipa.rst:275 ../../source/eipa.rst:449
+msgid "Marginal note:Transaction — brokering"
+msgstr ""
+
+#: ../../source/eipa.rst:277 ../../source/eipa.rst:451
+msgid ""
+"(1.1) For the purpose of the definition broker, a transaction that "
+"relates to the movement of goods or technology includes a transaction "
+"that relates to its acquisition or disposition, and a transaction that "
+"relates to the movement of technology also includes a transaction that "
+"relates to the disclosure of its contents."
+msgstr ""
+
+#: ../../source/eipa.rst:284
+msgid "Marginal note:Goods imported from certain countries"
+msgstr ""
+
+#: ../../source/eipa.rst:286
+msgid ""
+"(2) For the purposes of this Act, goods are imported from one of the "
+"following countries or territories if they are shipped directly to Canada"
+" from that country or territory, within the meaning of sections 17 and 18"
+" of the `Customs Tariff </eng/acts/C-54.011>`__:"
+msgstr ""
+
+#: ../../source/eipa.rst:300
+msgid "a CUSMA country"
+msgstr ""
+
+#: ../../source/eipa.rst:310
+msgid "an EU country or other CETA beneficiary"
+msgstr ""
+
+#: ../../source/eipa.rst:364
+msgid "R.S., 1985, c. E-19, s. 2"
+msgstr ""
+
+#: ../../source/eipa.rst:365
+msgid "1988, c. 65, s. 116"
+msgstr ""
+
+#: ../../source/eipa.rst:366
+msgid "1991, c. 28, s. 1"
+msgstr ""
+
+#: ../../source/eipa.rst:367
+msgid "1993, c. 44, s. 146"
+msgstr ""
+
+#: ../../source/eipa.rst:368
+msgid "1994, c. 47, s. 100"
+msgstr ""
+
+#: ../../source/eipa.rst:369
+msgid "1996, c. 33, s. 57"
+msgstr ""
+
+#: ../../source/eipa.rst:370
+msgid "1997, c. 14, s. 70, c. 36, s. 207"
+msgstr ""
+
+#: ../../source/eipa.rst:371
+msgid "2001, c. 28, s. 47"
+msgstr ""
+
+#: ../../source/eipa.rst:372
+msgid "2004, c. 15, s. 53"
+msgstr ""
+
+#: ../../source/eipa.rst:373
+msgid "2006, c. 13, s. 109"
+msgstr ""
+
+#: ../../source/eipa.rst:374
+msgid "2009, c. 16, s. 52"
+msgstr ""
+
+#: ../../source/eipa.rst:375
+msgid "2010, c. 4, s. 44"
+msgstr ""
+
+#: ../../source/eipa.rst:376
+msgid "2012, c. 26, s. 51"
+msgstr ""
+
+#: ../../source/eipa.rst:377
+msgid "2014, c. 14, s. 17"
+msgstr ""
+
+#: ../../source/eipa.rst:378
+msgid "2017, c. 6, s. 15"
+msgstr ""
+
+#: ../../source/eipa.rst:379
+msgid "2018, c. 23, s. 14"
+msgstr ""
+
+#: ../../source/eipa.rst:380
+msgid "`2018, c. 26, s. 3 <#1038959-1201332>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:459 ../../source/eipa.rst:516
+#: ../../source/eipa.rst:565 ../../source/eipa.rst:664
+#: ../../source/eipa.rst:781 ../../source/eipa.rst:877
+#: ../../source/eipa.rst:972 ../../source/eipa.rst:1323
+#: ../../source/eipa.rst:1650 ../../source/eipa.rst:1781
+#: ../../source/eipa.rst:1896 ../../source/eipa.rst:2041
+#: ../../source/eipa.rst:2179 ../../source/eipa.rst:2308
+#: ../../source/eipa.rst:2464 ../../source/eipa.rst:2592
+#: ../../source/eipa.rst:2692 ../../source/eipa.rst:2866
+#: ../../source/eipa.rst:3139 ../../source/eipa.rst:3321
+#: ../../source/eipa.rst:3509 ../../source/eipa.rst:3530
+#: ../../source/eipa.rst:3788 ../../source/eipa.rst:3864
+#: ../../source/eipa.rst:3949 ../../source/eipa.rst:4008
+#: ../../source/eipa.rst:4138 ../../source/eipa.rst:4207
+#: ../../source/eipa.rst:4282 ../../source/eipa.rst:4358
+#: ../../source/eipa.rst:4486 ../../source/eipa.rst:4596
+#: ../../source/eipa.rst:4712 ../../source/eipa.rst:4730
+#: ../../source/eipa.rst:4750 ../../source/eipa.rst:4811
+#: ../../source/eipa.rst:4829 ../../source/eipa.rst:4849
+#: ../../source/eipa.rst:4939 ../../source/eipa.rst:4959
+#: ../../source/eipa.rst:4984
+msgid "section mfp-hide modal-dialog modal-content overlay-def"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "name"
+msgstr ""
+
+#: ../../source/eipa.rst:384
+msgid "1038959-1201332"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 3"
+msgstr ""
+
+#: ../../source/eipa.rst:392
+msgid "Marginal note:2004, c. 15, s. 53(2)"
+msgstr ""
+
+#: ../../source/eipa.rst:394
+msgid ""
+"**3** (1) The definition technology in subsection 2(1) of the Act is "
+"replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:410 ../../source/eipa.rst:544
+msgid ""
+"(2) Subsection 2(1) of the Act is amended by adding the following in "
+"alphabetical order:"
+msgstr ""
+
+#: ../../source/eipa.rst:438
+msgid ""
+"organization has the same meaning as in section 2 of the Criminal Code; "
+"(organisation)"
+msgstr ""
+
+#: ../../source/eipa.rst:442
+msgid ""
+"(3) Section 2 of the Act is amended by adding the following after "
+"subsection (1):"
+msgstr ""
+
+#: ../../source/eipa.rst:461
+msgid "`2020, c. 1, s. 40 <#1237592-1253569>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:465
+msgid "1237592-1253569"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 40"
+msgstr ""
+
+#: ../../source/eipa.rst:473
+msgid "Marginal note:1993, c. 44, s. 146"
+msgstr ""
+
+#: ../../source/eipa.rst:475
+msgid ""
+"**40** (1) The definitions NAFTA and NAFTA country in subsection 2(1) of "
+"the Export and Import Permits Act are repealed."
+msgstr ""
+
+#: ../../source/eipa.rst:479
+msgid "Marginal note:1997, c. 14, s. 70(2)"
+msgstr ""
+
+#: ../../source/eipa.rst:481
+msgid ""
+"(2) Paragraph (a) of the definition free trade partner in section 2(1) of"
+" the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:491
+msgid ""
+"(3) Subsection 2(1) of the Act is amended by adding the following in "
+"alphabetical order:"
+msgstr ""
+
+#: ../../source/eipa.rst:499
+msgid ""
+"CUSMA has the meaning assigned by the definition Agreement in section 2 "
+"of the Canada–United States–Mexico Agreement Implementation Act. (ACEUM)"
+msgstr ""
+
+#: ../../source/eipa.rst:505
+msgid "CUSMA country means a country that is a party to CUSMA. (pays ACEUM)"
+msgstr ""
+
+#: ../../source/eipa.rst:508
+msgid "Marginal note:2014, c. 14, s. 17(2)"
+msgstr ""
+
+#: ../../source/eipa.rst:510
+msgid ""
+"(4) Subsection 2(2) of the Act is amended by striking out the reference "
+"to “a NAFTA country” from the list of countries."
+msgstr ""
+
+#: ../../source/eipa.rst:514
+msgid ""
+"(5) Subsection 2(2) of the Act is amended by adding, in alphabetical "
+"order, a reference to “a CUSMA country” in the list of countries."
+msgstr ""
+
+#: ../../source/eipa.rst:518
+msgid "`2021, c. 1, s. 16 <#1288312-1291231>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:522
+msgid "1288312-1291231"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2021, c. 1, s. 16"
+msgstr ""
+
+#: ../../source/eipa.rst:530
+msgid ""
+"**16** (1) The definition free trade partner in subsection 2(1) of the "
+"Export and Import Permits Act is amended by striking out “or” at the end "
+"of paragraph (b), by adding “or” at the end of paragraph (c) and by "
+"adding the following after paragraph (c):"
+msgstr ""
+
+#: ../../source/eipa.rst:552
+msgid ""
+"CUKTCA has the meaning assigned by the definition Agreement in section 2 "
+"of the Canada–United Kingdom Trade Continuity Agreement Implementation "
+"Act; (ACCCRU)"
+msgstr ""
+
+#: ../../source/eipa.rst:559
+msgid ""
+"CUKTCA beneficiary has the same meaning as in subsection 2(1) of the "
+"Customs Tariff; (bénéficiaire de l’ACCCRU)"
+msgstr ""
+
+#: ../../source/eipa.rst:563
+msgid ""
+"(3) Subsection 2(2) of the Act is amended by adding, in alphabetical "
+"order, a reference to “CUKTCA beneficiary” in the list of countries or "
+"territories."
+msgstr ""
+
+#: ../../source/eipa.rst:570
+msgid "`Previous Version <section-2-20200701.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Establishment of Control Lists"
+msgstr ""
+
+#: ../../source/eipa.rst:576
+msgid "Marginal note:Export control list of goods and technology"
+msgstr ""
+
+#: ../../source/eipa.rst:578
+msgid ""
+"**3** (1) The Governor in Council may establish a list of goods and "
+"technology, to be called an Export Control List, including therein any "
+"article the export or transfer of which the Governor in Council deems it "
+"necessary to control for any of the following purposes:"
+msgstr ""
+
+#: ../../source/eipa.rst:584
+msgid ""
+"(a) to ensure that arms, ammunition, implements or munitions of war, "
+"naval, army or air stores or any articles deemed capable of being "
+"converted thereinto or made useful in the production thereof or otherwise"
+" having a strategic nature or value will not be made available to any "
+"destination where their use might be detrimental to the security of "
+"Canada;"
+msgstr ""
+
+#: ../../source/eipa.rst:592
+msgid ""
+"(b) to ensure that any action taken to promote the further processing in "
+"Canada of a natural resource that is produced in Canada is not rendered "
+"ineffective by reason of the unrestricted exportation of that natural "
+"resource;"
+msgstr ""
+
+#: ../../source/eipa.rst:598
+msgid ""
+"(c) to limit or keep under surveillance the export of any raw or "
+"processed material that is produced in Canada in circumstances of surplus"
+" supply and depressed prices and that is not a produce of agriculture;"
+msgstr ""
+
+#: ../../source/eipa.rst:603
+msgid "(c.1) [Repealed, 1999, c. 31, s. 88]"
+msgstr ""
+
+#: ../../source/eipa.rst:605
+msgid "(d) to implement an intergovernmental arrangement or commitment;"
+msgstr ""
+
+#: ../../source/eipa.rst:608
+msgid ""
+"(e) to ensure that there is an adequate supply and distribution of the "
+"article in Canada for defence or other needs;"
+msgstr ""
+
+#: ../../source/eipa.rst:612
+msgid ""
+"(f) to ensure the orderly export marketing of any goods that are subject "
+"to a limitation imposed by any country or customs territory on the "
+"quantity of the goods that, on importation into that country or customs "
+"territory in any given period, is eligible for the benefit provided for "
+"goods imported within that limitation; or"
+msgstr ""
+
+#: ../../source/eipa.rst:619 ../../source/eipa.rst:661
+msgid ""
+"(g) to facilitate the collection of information in respect of the "
+"exportation of goods that were, are, or are likely to be, the subject of "
+"trade investigations or trade disputes."
+msgstr ""
+
+#: ../../source/eipa.rst:624 ../../source/eipa.rst:771
+#: ../../source/eipa.rst:796 ../../source/eipa.rst:867
+msgid "Marginal note:Conditions"
+msgstr ""
+
+#: ../../source/eipa.rst:626
+msgid ""
+"(2) The description of goods set out in the Export Control List may "
+"contain conditions that are based on approvals, classifications or "
+"determinations made by specified persons or specified government "
+"entities, including foreign government entities."
+msgstr ""
+
+#: ../../source/eipa.rst:634
+msgid "R.S., 1985, c. E-19, s. 3"
+msgstr ""
+
+#: ../../source/eipa.rst:635
+msgid "R.S., 1985, c. 12 (3rd Supp.), s. 26"
+msgstr ""
+
+#: ../../source/eipa.rst:636
+msgid "1999, c. 31, s. 88"
+msgstr ""
+
+#: ../../source/eipa.rst:637
+msgid "2004, c. 15, s. 54"
+msgstr ""
+
+#: ../../source/eipa.rst:638
+msgid "2006, c. 13, s. 110"
+msgstr ""
+
+#: ../../source/eipa.rst:639
+msgid "2017, c. 6, s. 16(F)"
+msgstr ""
+
+#: ../../source/eipa.rst:640
+msgid "`2018, c. 26, s. 4 <#1038968-1201340>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:644
+msgid "1038968-1201340"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 4"
+msgstr ""
+
+#: ../../source/eipa.rst:652
+msgid ""
+"**4** Subsection 3(1) of the Act is amended by striking out “or” at the "
+"end of paragraph (e), by adding “or” at the end of paragraph (f) and by "
+"adding the following after paragraph (f):"
+msgstr ""
+
+#: ../../source/eipa.rst:669
+msgid "`Previous Version <section-3-20170921.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:671
+msgid "**3.1** [Repealed, 1999, c. 31, s. 89]"
+msgstr ""
+
+#: ../../source/eipa.rst:673
+msgid "Marginal note:Area control list of countries"
+msgstr ""
+
+#: ../../source/eipa.rst:675
+msgid ""
+"**4** The Governor in Council may establish a list of countries, to be "
+"called an Area Control List, including therein any country to which the "
+"Governor in Council deems it necessary to control the export or transfer "
+"of any goods or technology."
+msgstr ""
+
+#: ../../source/eipa.rst:682
+msgid "R.S., 1985, c. E-19, s. 4"
+msgstr ""
+
+#: ../../source/eipa.rst:683
+msgid "2004, c. 15, s. 55"
+msgstr ""
+
+#: ../../source/eipa.rst:687
+msgid "`Previous Version <section-4-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:689 ../../source/eipa.rst:734
+#: ../../source/eipa.rst:830
+msgid "Marginal note:Automatic Firearms Country Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:691 ../../source/eipa.rst:737
+#: ../../source/eipa.rst:833
+msgid ""
+"**4.1** The Governor in Council may, on the recommendation of the "
+"Minister made after consultation with the Minister of National Defence, "
+"establish a list of countries, to be called an Automatic Firearms Country"
+" Control List, to which the Governor in Council considers it appropriate "
+"to permit the export of any of the following that is included in an "
+"Export Control List, or any component or part of any such thing:"
+msgstr ""
+
+#: ../../source/eipa.rst:699
+msgid ""
+"(a) a prohibited firearm described in paragraph (c) or (d) of the "
+"definition prohibited firearm in subsection 84(1) of the `Criminal Code "
+"</eng/acts/C-46>`__;"
+msgstr ""
+
+#: ../../source/eipa.rst:703 ../../source/eipa.rst:753
+#: ../../source/eipa.rst:849
+msgid ""
+"(b) a prohibited weapon described in paragraph (b) of the definition "
+"prohibited weapon in that subsection; or"
+msgstr ""
+
+#: ../../source/eipa.rst:706 ../../source/eipa.rst:757
+#: ../../source/eipa.rst:853
+msgid ""
+"(c) a prohibited device described in paragraph (a) or (d) of the "
+"definition prohibited device in that subsection."
+msgstr ""
+
+#: ../../source/eipa.rst:711
+msgid "1991, c. 28, s. 2"
+msgstr ""
+
+#: ../../source/eipa.rst:712
+msgid "1995, c. 39, s. 171"
+msgstr ""
+
+#: ../../source/eipa.rst:713
+msgid "`2018, c. 26, s. 5 <#1038970-1201344>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:717
+msgid "1038970-1201344"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 5"
+msgstr ""
+
+#: ../../source/eipa.rst:725 ../../source/eipa.rst:821
+msgid "Marginal note:1995, c. 39, s. 171"
+msgstr ""
+
+#: ../../source/eipa.rst:727 ../../source/eipa.rst:823
+msgid "**5** Section 4.1 of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:748 ../../source/eipa.rst:844
+msgid ""
+"(a) a prohibited firearm described in paragraph (c) or (d) of the "
+"definition prohibited firearm in subsection 84(1) of the Criminal Code;"
+msgstr ""
+
+#: ../../source/eipa.rst:761 ../../source/eipa.rst:788
+#: ../../source/eipa.rst:857
+msgid "Marginal note:Brokering Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:763 ../../source/eipa.rst:790
+#: ../../source/eipa.rst:859
+msgid ""
+"**4.11** (1) The Governor in Council may establish a list of goods and "
+"technology, to be called a Brokering Control List, including in it any "
+"article that is included in an Export Control List the brokering of which"
+" the Governor in Council considers it necessary to control."
+msgstr ""
+
+#: ../../source/eipa.rst:773 ../../source/eipa.rst:798
+#: ../../source/eipa.rst:869
+msgid ""
+"(2) The description of any article set out in the Brokering Control List "
+"may contain conditions that are based on approvals, classifications or "
+"determinations made by specified persons or specified government "
+"entities, including foreign government entities. For greater certainty, "
+"those conditions may differ from any conditions set out in the "
+"description of that article in the Export Control List."
+msgstr ""
+
+#: ../../source/eipa.rst:786
+msgid "`Previous Version <section-4.1-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:809
+msgid "`2018, c. 26, s. 5 <#1038970-1201356>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:813
+msgid "1038970-1201356"
+msgstr ""
+
+#: ../../source/eipa.rst:882
+msgid "**4.2** (1) In section 5,"
+msgstr ""
+
+#: ../../source/eipa.rst:888 ../../source/eipa.rst:961
+msgid "contribute importantly"
+msgstr ""
+
+#: ../../source/eipa.rst:885 ../../source/eipa.rst:956
+msgid ""
+"contribute importantly, in respect of goods imported from a CUSMA country"
+" or from Chile, means to be an important cause, but not necessarily the "
+"most important cause; (contribuer de manière importante)"
+msgstr ""
+
+#: ../../source/eipa.rst:892
+msgid "principal cause"
+msgstr ""
+
+#: ../../source/eipa.rst:891
+msgid ""
+"principal cause means an important cause that is no less important than "
+"any other cause; (cause principale)"
+msgstr ""
+
+#: ../../source/eipa.rst:898
+msgid "serious injury"
+msgstr ""
+
+#: ../../source/eipa.rst:895
+msgid ""
+"serious injury means, in relation to domestic producers of like or "
+"directly competitive goods, a significant overall impairment in the "
+"position of the domestic producers; (dommage grave)"
+msgstr ""
+
+#: ../../source/eipa.rst:908 ../../source/eipa.rst:972
+msgid "surge"
+msgstr ""
+
+#: ../../source/eipa.rst:901 ../../source/eipa.rst:964
+msgid "surge, in respect of goods imported from"
+msgstr ""
+
+#: ../../source/eipa.rst:903 ../../source/eipa.rst:966
+msgid ""
+"(a) a CUSMA country, means a significant increase in imports over the "
+"trend for a recent representative base period, and"
+msgstr ""
+
+#: ../../source/eipa.rst:907 ../../source/eipa.rst:971
+msgid ""
+"(b) Chile, has the meaning given that word by Article F-05 of CCFTA; "
+"(augmentation subite)"
+msgstr ""
+
+#: ../../source/eipa.rst:914
+msgid "threat of serious injury"
+msgstr ""
+
+#: ../../source/eipa.rst:911
+msgid ""
+"threat of serious injury means serious injury that, on the basis of "
+"facts, and not merely of allegation, conjecture or remote possibility, is"
+" clearly imminent. (menace de dommage grave)"
+msgstr ""
+
+#: ../../source/eipa.rst:916
+msgid "Marginal note:Application of definition in regulations"
+msgstr ""
+
+#: ../../source/eipa.rst:918
+msgid ""
+"(2) Any regulations made under paragraph 40(b) of the `Canadian "
+"International Trade Tribunal Act </eng/acts/C-18.3>`__ defining “like or "
+"directly competitive goods” apply for the purposes of sections 5 and 5.4."
+msgstr ""
+
+#: ../../source/eipa.rst:926
+msgid "1994, c. 47, s. 102"
+msgstr ""
+
+#: ../../source/eipa.rst:927
+msgid "1996, c. 33, s. 58"
+msgstr ""
+
+#: ../../source/eipa.rst:928
+msgid "1997, c. 14, s. 71"
+msgstr ""
+
+#: ../../source/eipa.rst:929
+msgid "2002, c. 19, s. 12"
+msgstr ""
+
+#: ../../source/eipa.rst:930
+msgid "2009, c. 16, s. 53"
+msgstr ""
+
+#: ../../source/eipa.rst:931
+msgid "2010, c. 4, s. 45"
+msgstr ""
+
+#: ../../source/eipa.rst:932
+msgid "2012, c. 26, s. 52"
+msgstr ""
+
+#: ../../source/eipa.rst:933
+msgid "`2020, c. 1, s. 41 <#1237606-1253574>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:937
+msgid "1237606-1253574"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 41"
+msgstr ""
+
+#: ../../source/eipa.rst:945
+msgid "Marginal note:1997, c. 14, s. 71"
+msgstr ""
+
+#: ../../source/eipa.rst:947
+msgid ""
+"**41** The definitions contribute importantly and surge in subsection "
+"4.2(1) of the Act are replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:977
+msgid "`Previous Version <section-4.2-20130401.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:979
+msgid "Marginal note:Import control list of goods"
+msgstr ""
+
+#: ../../source/eipa.rst:981
+msgid ""
+"**5** (1) The Governor in Council may establish a list of goods, to be "
+"called an Import Control List, including therein any article the import "
+"of which the Governor in Council deems it necessary to control for any of"
+" the following purposes:"
+msgstr ""
+
+#: ../../source/eipa.rst:987
+msgid ""
+"(a) to ensure, in accordance with the needs of Canada, the best possible "
+"supply and distribution of an article that is scarce in world markets or "
+"in Canada or is subject to governmental controls in the countries of "
+"origin or to allocation by intergovernmental arrangement;"
+msgstr ""
+
+#: ../../source/eipa.rst:993
+msgid ""
+"(b) to restrict, for the purpose of supporting any action taken under the"
+" Farm Products Marketing Agencies Act, the importation in any form of a "
+"like article to one produced or marketed in Canada the quantities of "
+"which are fixed or determined under that Act;"
+msgstr ""
+
+#: ../../source/eipa.rst:999
+msgid "(c) [Repealed, 1994, c. 47, s. 220]"
+msgstr ""
+
+#: ../../source/eipa.rst:1001
+msgid ""
+"(c.1) to restrict the importation of arms, ammunition, implements or "
+"munitions of war, army, naval or air stores, or any articles deemed "
+"capable of being converted thereinto or made useful in the production "
+"thereof;"
+msgstr ""
+
+#: ../../source/eipa.rst:1006
+msgid ""
+"(d) to implement an action taken under the `Agricultural Marketing "
+"Programs Act </eng/acts/A-3.7>`__ or the `Canadian Dairy Commission Act "
+"</eng/acts/C-15>`__, with the object or effect of supporting the price of"
+" the article;"
+msgstr ""
+
+#: ../../source/eipa.rst:1012
+msgid "(e) to implement an intergovernmental arrangement or commitment; or"
+msgstr ""
+
+#: ../../source/eipa.rst:1015
+msgid ""
+"(f) to prevent the frustration or circumvention of the Agreement on "
+"Textiles and Clothing in Annex 1A of the World Trade Organization "
+"Agreement by the importation of goods that are like or directly "
+"competitive with goods to which the Agreement on Textiles and Clothing "
+"applies."
+msgstr ""
+
+#: ../../source/eipa.rst:1021
+msgid "Marginal note:Statement or summary to be laid before Parliament"
+msgstr ""
+
+#: ../../source/eipa.rst:1024
+msgid ""
+"(2) Where any goods are included in the Import Control List for the "
+"purpose of ensuring supply or distribution of goods subject to allocation"
+" by intergovernmental arrangement or for the purpose of implementing an "
+"intergovernmental arrangement or commitment, a statement of the effect or"
+" a summary of the arrangement or commitment, if it has not previously "
+"been laid before Parliament, shall be laid before Parliament not later "
+"than fifteen days after the order of the Governor in Council including "
+"those goods in the Import Control List is published in the `Canada "
+"Gazette <http://www.gazette.gc.ca/>`__ pursuant to the `Statutory "
+"Instruments Act </eng/acts/S-22>`__ or, if Parliament is not then "
+"sitting, on any of the first fifteen days next thereafter that either "
+"House of Parliament is sitting."
+msgstr ""
+
+#: ../../source/eipa.rst:1040 ../../source/eipa.rst:1179
+#: ../../source/eipa.rst:1208 ../../source/eipa.rst:1223
+#: ../../source/eipa.rst:1402 ../../source/eipa.rst:1547
+#: ../../source/eipa.rst:1563 ../../source/eipa.rst:1578
+msgid "Marginal note:Addition to Import Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:1042
+msgid ""
+"(3) Where at any time it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made pursuant to an inquiry made by "
+"the Canadian International Trade Tribunal under section 20 or 26 of the "
+"`Canadian International Trade Tribunal Act </eng/acts/C-18.3>`__, that "
+"goods of any kind are being imported or are likely to be imported into "
+"Canada at such prices, in such quantities and under such conditions as to"
+" cause or threaten serious injury to domestic producers of like or "
+"directly competitive goods, any goods of the same kind may, by order of "
+"the Governor in Council, be included on the Import Control List, for the "
+"purpose of limiting the importation of such goods to the extent and, "
+"subject to subsection (7), for the period that in the opinion of the "
+"Governor in Council is necessary to prevent or remedy the injury."
+msgstr ""
+
+#: ../../source/eipa.rst:1058
+msgid "Marginal note:Prohibition against further orders"
+msgstr ""
+
+#: ../../source/eipa.rst:1060
+msgid ""
+"(3.1) No order may be made under subsection (3) with respect to goods "
+"that have already been the subject of an order made under that subsection"
+" or subsection 55(1) of the `Customs Tariff </eng/acts/C-54.011>`__ "
+"unless, after the expiry of the order and any related orders made under "
+"subsection (3.2) or (4.1) or under section 60 or subsection 63(1) of the "
+"`Customs Tariff </eng/acts/C-54.011>`__, there has elapsed a period equal"
+" to the greater of two years and the total period during which the order "
+"or orders were in effect."
+msgstr ""
+
+#: ../../source/eipa.rst:1070 ../../source/eipa.rst:1522
+msgid "Marginal note:Extension order"
+msgstr ""
+
+#: ../../source/eipa.rst:1072
+msgid ""
+"(3.2) The Governor in Council may, on the recommendation of the Minister,"
+" make an extension order including on the Import Control List any goods "
+"with respect to which an order has been made under this subsection or "
+"subsection (3) or (4.1) or under subsection 55(1), section 60 or "
+"subsection 63(1) of the `Customs Tariff </eng/acts/C-54.011>`__ if, at "
+"any time before the order expires, it appears to the satisfaction of the "
+"Governor in Council, as a result of an inquiry made by the Canadian "
+"International Trade Tribunal under section 30.07 of the `Canadian "
+"International Trade Tribunal Act </eng/acts/C-18.3>`__, that"
+msgstr ""
+
+#: ../../source/eipa.rst:1084
+msgid ""
+"(a) an order continues to be necessary to prevent or remedy serious "
+"injury to domestic producers of like or directly competitive goods; and"
+msgstr ""
+
+#: ../../source/eipa.rst:1088
+msgid ""
+"(b) there is evidence that the domestic producers are adjusting, as "
+"determined in accordance with any regulations made under paragraph 40(b) "
+"of the `Canadian International Trade Tribunal Act </eng/acts/C-18.3>`__."
+msgstr ""
+
+#: ../../source/eipa.rst:1093
+msgid "Marginal note:Period and revocation of extension orders"
+msgstr ""
+
+#: ../../source/eipa.rst:1095
+msgid ""
+"(3.3) Every extension order made under subsection (3.2) shall, subject to"
+" this section, remain in effect for the period that is specified in the "
+"order, but the total of the specified period and the periods during which"
+" the goods were previously subject to any related orders made under "
+"subsection (3), (3.2) or (4.1) or under subsection 55(1), section 60 or "
+"subsection 63(1) of the `Customs Tariff </eng/acts/C-54.011>`__ shall not"
+" exceed eight years."
+msgstr ""
+
+#: ../../source/eipa.rst:1104
+msgid "Marginal note:Exception for goods imported from certain countries"
+msgstr ""
+
+#: ../../source/eipa.rst:1107
+msgid ""
+"(3.4) An order made under subsection (3) or (3.2) may exclude goods of "
+"any kind imported from a country listed in Schedule 1 if it appears to "
+"the satisfaction of the Governor in Council, on the basis of a report "
+"under the `Canadian International Trade Tribunal Act "
+"</eng/acts/C-18.3>`__, that the quantity of those goods being imported is"
+" not a principal cause of serious injury or threat of serious injury to "
+"domestic producers of like or directly competitive goods."
+msgstr ""
+
+#: ../../source/eipa.rst:1117
+msgid "Marginal note:Exception for goods imported from a free trade partner"
+msgstr ""
+
+#: ../../source/eipa.rst:1120
+msgid ""
+"(4) Notwithstanding subsections (3) and (3.2), an order made under those "
+"subsections may apply to goods imported from a free trade partner only if"
+" it appears to the satisfaction of the Governor in Council, on a report "
+"of the Minister made on the basis of an inquiry under section 20, 26 or "
+"30.07 of the `Canadian International Trade Tribunal Act "
+"</eng/acts/C-18.3>`__, that"
+msgstr ""
+
+#: ../../source/eipa.rst:1128
+msgid ""
+"(a) the quantity of those goods represents a substantial share of the "
+"quantity of goods of the same kind imported into Canada from all "
+"countries;"
+msgstr ""
+
+#: ../../source/eipa.rst:1132 ../../source/eipa.rst:1315
+msgid ""
+"(b) in the case of goods imported from a CUSMA country, the quantity of "
+"those goods, alone or, in exceptional circumstances, together with the "
+"quantity of goods of the same kind imported from each other CUSMA "
+"country, contributes importantly to the serious injury or threat of "
+"serious injury to domestic producers of like or directly competitive "
+"goods; and"
+msgstr ""
+
+#: ../../source/eipa.rst:1140
+msgid ""
+"(c) in the case of goods imported from any other free trade partner, the "
+"quantity of those goods contributes importantly to the serious injury or "
+"threat of serious injury to domestic producers of like or directly "
+"competitive goods."
+msgstr ""
+
+#: ../../source/eipa.rst:1146
+msgid "(4.01) to (4.05) [Repealed, 1997, c. 14, s. 72]"
+msgstr ""
+
+#: ../../source/eipa.rst:1148
+msgid ""
+"Marginal note:New order with respect to goods imported from a free trade "
+"partner"
+msgstr ""
+
+#: ../../source/eipa.rst:1151
+msgid ""
+"(4.1) If an order has been made under subsection (3) or (3.2) that does "
+"not, by virtue of subsection (4), apply to goods imported from a free "
+"trade partner and it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made on the basis of an inquiry "
+"under section 30.01 or 30.011 of the `Canadian International Trade "
+"Tribunal Act </eng/acts/C-18.3>`__, that"
+msgstr ""
+
+#: ../../source/eipa.rst:1159
+msgid ""
+"(a) there has been a surge of like goods imported from that free trade "
+"partner on or after the coming into force of the order, and"
+msgstr ""
+
+#: ../../source/eipa.rst:1163
+msgid ""
+"(b) as a result of the surge, the effectiveness of the order is being "
+"undermined,"
+msgstr ""
+
+#: ../../source/eipa.rst:1166
+msgid ""
+"any goods of the same kind imported into Canada from that free trade "
+"partner may, by order of the Governor in Council, be included on the "
+"Import Control List for the purpose of limiting their importation to "
+"prevent the undermining of the effectiveness of the order made under "
+"subsection (3) or (3.2)."
+msgstr ""
+
+#: ../../source/eipa.rst:1173
+msgid "Marginal note:Order to specify"
+msgstr ""
+
+#: ../../source/eipa.rst:1175
+msgid ""
+"(4.2) An order made under subsection (3) or (3.2) must state whether it "
+"applies to goods imported from a free trade partner."
+msgstr ""
+
+#: ../../source/eipa.rst:1181
+msgid ""
+"(4.3) If at any time it appears to the satisfaction of the Governor in "
+"Council that it is advisable to collect information with respect to goods"
+" imported from a free trade partner, the Governor in Council may, by "
+"order, include those goods on the Import Control List in order to "
+"facilitate the collection of that information if those goods are goods"
+msgstr ""
+
+#: ../../source/eipa.rst:1189
+msgid ""
+"(a) to which an order made under subsection (3) or (3.2) does not apply "
+"by virtue of subsection (4); or"
+msgstr ""
+
+#: ../../source/eipa.rst:1192
+msgid ""
+"(b) to which an order made under subsection 55(1) or 63(1) of the "
+"`Customs Tariff </eng/acts/C-54.011>`__ does not apply because the goods "
+"did not meet the conditions set out in subsection 59(1) or 63(4) of that "
+"Act."
+msgstr ""
+
+#: ../../source/eipa.rst:1197
+msgid "Marginal note:Revocation or amendment of inclusion order"
+msgstr ""
+
+#: ../../source/eipa.rst:1199
+msgid ""
+"(4.4) If at any time it appears to the satisfaction of the Governor in "
+"Council that an order including any goods on the Import Control List "
+"under subsection (3), (3.2) or (4.1) should be revoked or amended, the "
+"Governor in Council may, on the recommendation of the Minister, by order,"
+" revoke the order or amend it."
+msgstr ""
+
+#: ../../source/eipa.rst:1206
+msgid "(4.5) to (4.92) [Repealed, 1997, c. 14, s. 72]"
+msgstr ""
+
+#: ../../source/eipa.rst:1210
+msgid ""
+"(5) Where at any time it appears to the satisfaction of the Governor in "
+"Council on a report of the Minister made as described in subsection (3) "
+"that goods of any kind are being imported or are likely to be imported "
+"into Canada at such prices, in such quantities and under such conditions "
+"as to make it advisable to collect information with respect to the "
+"importation of those goods in order to ascertain whether the importation "
+"is causing or threatening injury to domestic producers of like or "
+"directly competitive goods, any goods of the same kind may, by order of "
+"the Governor in Council, be included on the Import Control List in order "
+"to facilitate the collection of that information."
+msgstr ""
+
+#: ../../source/eipa.rst:1225
+msgid ""
+"(6) If, for the purpose of facilitating the implementation of action "
+"taken under subsection 14(2), section 35, 39 or 43, paragraph 53(2)(d), "
+"subsection 55(1), section 60 or subsection 63(1) or 82(1) of the `Customs"
+" Tariff </eng/acts/C-54.011>`__, the Governor in Council considers it "
+"necessary to control the importation of any goods or collect information "
+"with respect to their importation, the Governor in Council may, by order,"
+" include those goods on the Import Control List for that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:1235 ../../source/eipa.rst:1589
+msgid "Marginal note:Goods deemed to be removed from List"
+msgstr ""
+
+#: ../../source/eipa.rst:1237
+msgid ""
+"(7) Where goods are included on the Import Control List by order of the "
+"Governor in Council under subsection (3), (5) or (6), the goods shall be "
+"deemed to be removed from that List"
+msgstr ""
+
+#: ../../source/eipa.rst:1242
+msgid ""
+"(a) on the expiration of the period of four years after the day on which "
+"they are included on the List by the order; or"
+msgstr ""
+
+#: ../../source/eipa.rst:1246
+msgid ""
+"(b) if the order specifies a day prior to the expiration of the period "
+"referred to in paragraph (a) on which they shall be deemed to be removed "
+"from that List, on the day specified in the order."
+msgstr ""
+
+#: ../../source/eipa.rst:1251
+msgid "(7.1) and (7.2) [Repealed, 1997, c. 14, s. 72]"
+msgstr ""
+
+#: ../../source/eipa.rst:1253
+msgid "Marginal note:Goods imported from a free trade partner"
+msgstr ""
+
+#: ../../source/eipa.rst:1255
+msgid ""
+"(8) If goods imported from a free trade partner are included on the "
+"Import Control List by order of the Governor in Council under subsection "
+"(4.1) or (4.3), the goods are deemed to be removed from that List on the "
+"earlier of"
+msgstr ""
+
+#: ../../source/eipa.rst:1260
+msgid "(a) the day specified in the order, and"
+msgstr ""
+
+#: ../../source/eipa.rst:1262
+msgid "(b) the day on which"
+msgstr ""
+
+#: ../../source/eipa.rst:1264
+msgid ""
+"(i) in the case of an order under subsection (4.1) or under subsection "
+"(4.3) in respect of goods referred to in paragraph (4.3)(a), goods of the"
+" same kind imported from any other country that were included on that "
+"List by an order made under subsection (3) are removed from that List, "
+"and"
+msgstr ""
+
+#: ../../source/eipa.rst:1271
+msgid ""
+"(ii) in the case of an order under subsection (4.3) in respect of goods "
+"referred to in paragraph (4.3)(b), the order under subsection 55(1) or "
+"63(1) of the `Customs Tariff </eng/acts/C-54.011>`__ that applies to "
+"goods of the same kind imported from any other country ceases to have "
+"effect."
+msgstr ""
+
+#: ../../source/eipa.rst:1278
+msgid "(9) [Repealed, 1997, c. 14, s. 72]"
+msgstr ""
+
+#: ../../source/eipa.rst:1282
+msgid "R.S., 1985, c. E-19, s. 5"
+msgstr ""
+
+#: ../../source/eipa.rst:1283
+msgid ""
+"R.S., 1985, c. 1 (2nd Supp.), s. 213, c. 41 (3rd Supp.), s. 127, c. 47 "
+"(4th Supp.), s. 52"
+msgstr ""
+
+#: ../../source/eipa.rst:1285
+msgid "1988, c. 65, s. 117"
+msgstr ""
+
+#: ../../source/eipa.rst:1286
+msgid "1993, c. 34, s. 67, c. 44, s. 147"
+msgstr ""
+
+#: ../../source/eipa.rst:1287
+msgid "1994, c. 47, ss. 103, 220"
+msgstr ""
+
+#: ../../source/eipa.rst:1288
+msgid "1996, c. 33, s. 59"
+msgstr ""
+
+#: ../../source/eipa.rst:1289
+msgid "1997, c. 14, s. 72, c. 20, s. 54, c. 36, s. 208"
+msgstr ""
+
+#: ../../source/eipa.rst:1290
+msgid "2009, c. 16, s. 54"
+msgstr ""
+
+#: ../../source/eipa.rst:1291
+msgid "2010, c. 4, s. 46"
+msgstr ""
+
+#: ../../source/eipa.rst:1292
+msgid "2012, c. 26, s. 53"
+msgstr ""
+
+#: ../../source/eipa.rst:1293
+msgid "2017, c. 6, s. 17"
+msgstr ""
+
+#: ../../source/eipa.rst:1294
+msgid "`2020, c. 1, s. 42 <#1237610-1253576>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1298
+msgid "1237610-1253576"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 42"
+msgstr ""
+
+#: ../../source/eipa.rst:1306
+msgid "Marginal note:1997, c. 14, s. 72(1)"
+msgstr ""
+
+#: ../../source/eipa.rst:1308
+msgid "**42** Paragraph 5(4)(b) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1328
+msgid "`Previous Version <section-5-20170921.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1330
+msgid "Marginal note:Addition to Export Control List or Import Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:1333
+msgid ""
+"**5.1** (1) Where at any time it appears to the satisfaction of the "
+"Governor in Council that it is advisable to collect information with "
+"respect to the exportation or importation of a certain type of steel or a"
+" certain product made of steel that is, in the opinion of the Minister, "
+"traded in world markets in circumstances of surplus supply and depressed "
+"prices and where a significant proportion of world trade in that type of "
+"steel or that product is subject to control through the use of non-tariff"
+" measure, the Governor in Council may, by order, include, subject to "
+"subsection (2), that type of steel or that product on the Export Control "
+"List or the Import Control List or on both for the purpose of "
+"facilitating the collection of that information."
+msgstr ""
+
+#: ../../source/eipa.rst:1347
+msgid "Marginal note:Deemed removal from List"
+msgstr ""
+
+#: ../../source/eipa.rst:1349
+msgid ""
+"(2) Where any type of steel or any product has been included on the "
+"Export Control List or the Import Control List by order of the Governor "
+"in Council under subsection (1), that type of steel or that product shall"
+" be deemed to be removed from the applicable List on the expiration of "
+"the period of three years from the day on which it was included on that "
+"List or on such day prior to the expiration of that period as may be "
+"specified in the order."
+msgstr ""
+
+#: ../../source/eipa.rst:1358
+msgid "Marginal note:Tabling of statistical summary in Parliament"
+msgstr ""
+
+#: ../../source/eipa.rst:1360
+msgid ""
+"(3) The Minister shall, as soon as possible after the end of each "
+"calendar year, prepare a statistical summary of any information collected"
+" during that year pursuant to subsection (1) and shall cause a copy of "
+"that summary to be laid before each House of Parliament forthwith on the "
+"completion thereof or, if either House of Parliament is not then sitting,"
+" on any of the first fifteen days next thereafter that it is sitting."
+msgstr ""
+
+#: ../../source/eipa.rst:1371
+msgid "R.S., 1985, c. 13 (3rd Supp.), s. 1"
+msgstr ""
+
+#: ../../source/eipa.rst:1373
+msgid "**5.11** [Repealed, 1997, c. 14, s. 73]"
+msgstr ""
+
+#: ../../source/eipa.rst:1375
+msgid ""
+"Marginal note:Addition to Export Control List or Import Control List — "
+"Schedule 2"
+msgstr ""
+
+#: ../../source/eipa.rst:1378
+msgid ""
+"**5.2** (1) If at any time it appears to the satisfaction of the Governor"
+" in Council that it is advisable to collect information with respect to "
+"the exportation or importation of any goods in respect of which a "
+"specified quantity is eligible each year for the rate of duty provided "
+"for in provisions, set out in column 2 of Schedule 2, of an "
+"intergovernmental arrangement set out in column 1, the Governor in "
+"Council may, by order and without reference to that quantity, include "
+"those goods on the Export Control List or the Import Control List, or on "
+"both, in order to facilitate the collection of that information."
+msgstr ""
+
+#: ../../source/eipa.rst:1390
+msgid "Marginal note:Addition to Import Control List — Schedule 3"
+msgstr ""
+
+#: ../../source/eipa.rst:1392
+msgid ""
+"(2) If at any time it appears to the satisfaction of the Governor in "
+"Council that, for the purposes of implementing an intergovernmental "
+"arrangement set out column 1 of Schedule 3, it is advisable to collect "
+"information with respect to the importation of any goods listed in the "
+"provisions of that arrangement set out in column 2, the Governor in "
+"Council may, by order, include those goods on the Import Control List in "
+"order to facilitate the collection of that information."
+msgstr ""
+
+#: ../../source/eipa.rst:1404
+msgid ""
+"(3) If at any time it appears to the satisfaction of the Governor in "
+"Council that it is advisable to collect information with respect to the "
+"importation of any goods in respect of which a specified quantity is "
+"eligible for any reduction of customs duty under subsection 49(1) of the "
+"`Customs Tariff </eng/acts/C-54.011>`__ or a reduction of the rate of "
+"customs duty under subsection 74(3) of that Act, the Governor in Council "
+"may, by order and without reference to that quantity, include those goods"
+" on the Import Control List in order to facilitate the collection of that"
+" information."
+msgstr ""
+
+#: ../../source/eipa.rst:1418
+msgid "1988, c. 65, s. 118"
+msgstr ""
+
+#: ../../source/eipa.rst:1419
+msgid "1997, c. 14, s. 73, c. 36, s. 209"
+msgstr ""
+
+#: ../../source/eipa.rst:1420
+msgid "2001, c. 28, s. 48"
+msgstr ""
+
+#: ../../source/eipa.rst:1421
+msgid "2014, c. 14, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:1422
+msgid "2017, c. 6, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:1426
+msgid "`Previous Version <section-5.2-20141001.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1428
+msgid ""
+"Marginal note:Addition to Import Control List to implement Agreement on "
+"Agriculture"
+msgstr ""
+
+#: ../../source/eipa.rst:1431
+msgid ""
+"**5.3** Where at any time it appears to the satisfaction of the Governor "
+"in Council that, for the purpose of implementing the Agreement on "
+"Agriculture in Annex 1A of the World Trade Organization Agreement, it is "
+"advisable to control the importation of goods or collect information with"
+" respect to the importation of goods, the Governor in Council may, by "
+"order, include the goods on the Import Control List."
+msgstr ""
+
+#: ../../source/eipa.rst:1441
+msgid "1994, c. 47, s. 104"
+msgstr ""
+
+#: ../../source/eipa.rst:1445
+msgid "**5.4** (1) The following definitions apply in this section."
+msgstr ""
+
+#: ../../source/eipa.rst:1464
+msgid "action"
+msgstr ""
+
+#: ../../source/eipa.rst:1448
+msgid "action means"
+msgstr ""
+
+#: ../../source/eipa.rst:1450
+msgid "(a) any action, including a provisional action, taken"
+msgstr ""
+
+#: ../../source/eipa.rst:1452
+msgid ""
+"(i) by the People’s Republic of China to prevent or remedy market "
+"disruption in a WTO Member other than Canada, or"
+msgstr ""
+
+#: ../../source/eipa.rst:1456
+msgid ""
+"(ii) by a WTO Member other than Canada to withdraw concessions under the "
+"World Trade Organization Agreement or otherwise to limit imports to "
+"prevent or remedy market disruption in that Member caused or threatened "
+"by the importation of goods originating in the People’s Republic of "
+"China; or"
+msgstr ""
+
+#: ../../source/eipa.rst:1463
+msgid "(b) any combination of actions referred to in paragraph (a). (mesure)"
+msgstr ""
+
+#: ../../source/eipa.rst:1473
+msgid "market disruption"
+msgstr ""
+
+#: ../../source/eipa.rst:1467
+msgid ""
+"market disruption means a rapid increase in the importation of goods that"
+" are like or directly competitive with goods produced by a domestic "
+"industry, in absolute terms or relative to the production of those goods "
+"by a domestic industry, so as to be a significant cause of material "
+"injury, or threat of material injury, to the domestic industry. "
+"(désorganisation du marché)"
+msgstr ""
+
+#: ../../source/eipa.rst:1479
+msgid "significant cause"
+msgstr ""
+
+#: ../../source/eipa.rst:1476
+msgid ""
+"significant cause means, in respect of a material injury or threat "
+"thereof, an important cause that need not be as important as, or more "
+"important than, any other cause of the material injury or threat. (cause "
+"importante)"
+msgstr ""
+
+#: ../../source/eipa.rst:1485
+msgid "WTO Member"
+msgstr ""
+
+#: ../../source/eipa.rst:1482
+msgid ""
+"WTO Member means a Member of the World Trade Organization established by "
+"Article I of the Agreement Establishing the World Trade Organization, "
+"signed at Marrakesh on April 15, 1994. (membre de l’OMC)"
+msgstr ""
+
+#: ../../source/eipa.rst:1487
+msgid "Marginal note:Addition to Import Control List — market disruption"
+msgstr ""
+
+#: ../../source/eipa.rst:1490
+msgid ""
+"(2) If at any time it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made pursuant to an inquiry made by "
+"the Canadian International Trade Tribunal under section 30.21 or 30.22 of"
+" the `Canadian International Trade Tribunal Act </eng/acts/C-18.3>`__, "
+"that goods originating in the People’s Republic of China are being "
+"imported or are likely to be imported into Canada in such increased "
+"quantities or under such conditions that they cause or threaten to cause "
+"market disruption to domestic producers of like or directly competitive "
+"goods, those goods may, by order of the Governor in Council, be included "
+"on the Import Control List, for the purpose of limiting the importation "
+"of such goods to the extent and for the period that in the opinion of the"
+" Governor in Council is necessary to prevent or remedy the market "
+"disruption."
+msgstr ""
+
+#: ../../source/eipa.rst:1506
+msgid "Marginal note:Addition to Import Control List — trade diversion"
+msgstr ""
+
+#: ../../source/eipa.rst:1509
+msgid ""
+"(3) If at any time it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made pursuant to an inquiry made by "
+"the Canadian International Trade Tribunal under section 30.21 or 30.23 of"
+" the `Canadian International Trade Tribunal Act </eng/acts/C-18.3>`__, "
+"that an action causes or threatens to cause a significant diversion of "
+"trade into the domestic market in Canada, any goods originating in the "
+"People’s Republic of China may, by order of the Governor in Council, be "
+"included on the Import Control List, for the purpose of limiting the "
+"importation of such goods to the extent that is necessary to prevent or "
+"remedy the trade diversion."
+msgstr ""
+
+#: ../../source/eipa.rst:1524
+msgid ""
+"(4) The Governor in Council may, on the recommendation of the Minister, "
+"make an extension order including on the Import Control List any goods "
+"with respect to which an order has been made under this subsection or "
+"subsection (2) or under section 77.1 or 77.3 of the `Customs Tariff "
+"</eng/acts/C-54.011>`__ if, at any time before the order expires, it "
+"appears to the satisfaction of the Governor in Council, as a result of an"
+" inquiry made by the Canadian International Trade Tribunal under "
+"subsection 30.25(7) of the `Canadian International Trade Tribunal Act "
+"</eng/acts/C-18.3>`__, that an order continues to be necessary to prevent"
+" or remedy market disruption to domestic producers of like or directly "
+"competitive goods."
+msgstr ""
+
+#: ../../source/eipa.rst:1538
+msgid "Marginal note:Repeal or amendment of inclusion order"
+msgstr ""
+
+#: ../../source/eipa.rst:1540
+msgid ""
+"(5) If at any time it appears to the satisfaction of the Governor in "
+"Council that an order including any goods on the Import Control List "
+"under subsection (2), (3) or (4) should be repealed or amended, the "
+"Governor in Council may, on the recommendation of the Minister, by order,"
+" repeal or amend the order."
+msgstr ""
+
+#: ../../source/eipa.rst:1549
+msgid ""
+"(6) If at any time it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made as described in subsection (2),"
+" that goods originating in the People’s Republic of China are being "
+"imported or are likely to be imported into Canada at such prices, in such"
+" quantities or under such conditions as to make it advisable to collect "
+"information with respect to the importation of those goods in order to "
+"ascertain whether the importation is causing or threatening to cause "
+"market disruption to domestic producers of like or directly competitive "
+"goods, those goods may, by order of the Governor in Council, be included "
+"on the Import Control List in order to facilitate the collection of that "
+"information."
+msgstr ""
+
+#: ../../source/eipa.rst:1565
+msgid ""
+"(7) If at any time it appears to the satisfaction of the Governor in "
+"Council, on a report of the Minister made as described in subsection (3),"
+" that an action causes or threatens to cause a significant diversion of "
+"trade into the domestic market in Canada so as to make it advisable to "
+"collect information with respect to goods originating in the People’s "
+"Republic of China in order to ascertain whether the action causes or "
+"threatens to cause a significant diversion of trade into the domestic "
+"market in Canada, those goods may, by order of the Governor in Council, "
+"be included on the Import Control List in order to facilitate the "
+"collection of that information."
+msgstr ""
+
+#: ../../source/eipa.rst:1580
+msgid ""
+"(8) If, for the purpose of facilitating the implementation of an order "
+"made under section 77.1, 77.3 or 77.6 of the `Customs Tariff "
+"</eng/acts/C-54.011>`__, the Governor in Council considers it necessary "
+"to control the importation of goods originating in the People’s Republic "
+"of China or collect information with respect to their importation, the "
+"Governor in Council may, by order, include those goods on the Import "
+"Control List for that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:1591
+msgid ""
+"(9) If goods are included on the Import Control List by order of the "
+"Governor in Council under subsection (8), the goods shall be deemed to be"
+" removed from that List on the earlier of"
+msgstr ""
+
+#: ../../source/eipa.rst:1596
+msgid "(a) the day, if any, specified in that order, and"
+msgstr ""
+
+#: ../../source/eipa.rst:1598
+msgid ""
+"(b) the day on which the order made under section 77.1, 77.3 or 77.6 of "
+"the `Customs Tariff </eng/acts/C-54.011>`__ ceases to have effect or is "
+"repealed pursuant to section 77.2, 77.3 or 77.4 of that Act, as the case "
+"may be."
+msgstr ""
+
+#: ../../source/eipa.rst:1604
+msgid "Marginal note:Expiry date"
+msgstr ""
+
+#: ../../source/eipa.rst:1606
+msgid "(10) Subsections (1) to (9) cease to have effect on December 11, 2013."
+msgstr ""
+
+#: ../../source/eipa.rst:1611
+msgid "2002, c. 19, s. 13"
+msgstr ""
+
+#: ../../source/eipa.rst:1613 ../../source/eipa.rst:1645
+msgid "Marginal note:Amendment of lists"
+msgstr ""
+
+#: ../../source/eipa.rst:1615 ../../source/eipa.rst:1647
+msgid ""
+"**6** The Governor in Council may revoke, amend, vary or re-establish any"
+" Area Control List, Automatic Firearms Country Control List, Brokering "
+"Control List, Export Control List or Import Control List."
+msgstr ""
+
+#: ../../source/eipa.rst:1622
+msgid "R.S., 1985, c. E-19, s. 6"
+msgstr ""
+
+#: ../../source/eipa.rst:1623 ../../source/eipa.rst:2024
+msgid "1991, c. 28, s. 3"
+msgstr ""
+
+#: ../../source/eipa.rst:1624
+msgid "`2018, c. 26, s. 6 <#1038974-1201357>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1628
+msgid "1038974-1201357"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 6"
+msgstr ""
+
+#: ../../source/eipa.rst:1636
+msgid "Marginal note:1991, c. 28, s. 3"
+msgstr ""
+
+#: ../../source/eipa.rst:1638
+msgid "**6** Section 6 of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1655
+msgid "`Previous Version <section-6-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Bilateral Emergency Measures: Textile and Apparel Goods"
+msgstr ""
+
+#: ../../source/eipa.rst:1662 ../../source/eipa.rst:1727
+msgid "Marginal note:Definition of originating goods"
+msgstr ""
+
+#: ../../source/eipa.rst:1664
+msgid ""
+"**6.1** (1) In this section, originating goods means goods that are "
+"entitled under the `Customs Tariff </eng/acts/C-54.011>`__ to the United "
+"States Tariff, the Mexico Tariff, the Chile Tariff or the Costa Rica "
+"Tariff."
+msgstr ""
+
+#: ../../source/eipa.rst:1670 ../../source/eipa.rst:1747
+msgid "Marginal note:When Minister may take measures"
+msgstr ""
+
+#: ../../source/eipa.rst:1672 ../../source/eipa.rst:1750
+msgid ""
+"(2) If at any time it appears to the satisfaction of the Minister that "
+"any goods that are referred to in paragraph (b) or (c) and are not "
+"originating goods are being imported from Chile or from Costa Rica, as "
+"the case may be, in such increased quantities, measured in absolute terms"
+" or relative to the domestic market, and under such conditions as to "
+"cause serious damage or actual threat of serious damage to domestic "
+"producers of like or directly competitive goods, the Minister may take "
+"the measures set out"
+msgstr ""
+
+#: ../../source/eipa.rst:1682
+msgid "(a) [Repealed, 2020, c. 1, s. 43]"
+msgstr ""
+
+#: ../../source/eipa.rst:1684
+msgid ""
+"(b) in the case of goods listed in Appendix 1.1 of Annex C-00-B of CCFTA "
+"that are imported from Chile, in section 4 of that Annex in relation to "
+"those goods; and"
+msgstr ""
+
+#: ../../source/eipa.rst:1688
+msgid ""
+"(c) in the case of goods listed in Appendix III.1.1.1 of Annex III.1 of "
+"CCRFTA that are imported from Costa Rica, in section 5 of that Annex in "
+"relation to those goods."
+msgstr ""
+
+#: ../../source/eipa.rst:1692 ../../source/eipa.rst:1774
+msgid "Marginal note:Factors to be considered"
+msgstr ""
+
+#: ../../source/eipa.rst:1694 ../../source/eipa.rst:1776
+msgid ""
+"(3) In determining whether the conditions referred to in subsection (2) "
+"exist, the Minister shall have regard to paragraph 2 of section 3 of "
+"Annex C-00-B of CCFTA or paragraph 2 of section 4 of Annex III.1 of "
+"CCRFTA, as the case may be."
+msgstr ""
+
+#: ../../source/eipa.rst:1702
+msgid "1993, c. 44, s. 149"
+msgstr ""
+
+#: ../../source/eipa.rst:1703
+msgid "1994, c. 47, s. 105(F)"
+msgstr ""
+
+#: ../../source/eipa.rst:1704
+msgid "1997, c. 14, s. 74, c. 36, s. 210"
+msgstr ""
+
+#: ../../source/eipa.rst:1705
+msgid "2001, c. 28, s. 49"
+msgstr ""
+
+#: ../../source/eipa.rst:1706
+msgid "`2020, c. 1, s. 43 <#1237614-1253583>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1710
+msgid "1237614-1253583"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 43"
+msgstr ""
+
+#: ../../source/eipa.rst:1718 ../../source/eipa.rst:1737
+#: ../../source/eipa.rst:1765
+msgid "Marginal note:2001, c. 28, s. 49"
+msgstr ""
+
+#: ../../source/eipa.rst:1720
+msgid "**43** (1) Subsection 6.1(1) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1730
+msgid ""
+"**6.1** (1) In this section, originating goods means goods that are "
+"entitled under the Customs Tariff to the United States Tariff, the Mexico"
+" Tariff, the Chile Tariff or the Costa Rica Tariff."
+msgstr ""
+
+#: ../../source/eipa.rst:1739
+msgid ""
+"(2) The portion of subsection 6.1(2) of the Act before paragraph (b) is "
+"replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1767
+msgid "(3) Subsection 6.1(3) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1786
+msgid "`Previous Version <section-6.1-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Import or Export Access"
+msgstr ""
+
+#: ../../source/eipa.rst:1792 ../../source/eipa.rst:1929
+msgid "Marginal note:Determination of quantities"
+msgstr ""
+
+#: ../../source/eipa.rst:1794
+msgid ""
+"**6.2** (1) If any goods have been included on the Import Control List "
+"under subsection 5(6) or for the purpose of implementing an "
+"intergovernmental arrangement or commitment, the Minister may determine "
+"import access quantities, or the basis for calculating them, for the "
+"purposes of subsection (2) and section 8.3 of this Act and for the "
+"purposes of the `Customs Tariff </eng/acts/C-54.011>`__."
+msgstr ""
+
+#: ../../source/eipa.rst:1802 ../../source/eipa.rst:1871
+msgid "Marginal note:Determination of quantities — export"
+msgstr ""
+
+#: ../../source/eipa.rst:1804 ../../source/eipa.rst:1874
+msgid ""
+"(1.1) If any goods, other than softwood lumber products to which section "
+"6.3 applies, have been included on the Export Control List for a purpose "
+"referred to in paragraph 3(1)(d) or (f), the Minister may determine "
+"export access quantities, or the basis for calculating them, for the "
+"purposes of subsection (2), 7(1) or (1.1) or section 8.31."
+msgstr ""
+
+#: ../../source/eipa.rst:1811 ../../source/eipa.rst:1939
+msgid "Marginal note:Allocation method"
+msgstr ""
+
+#: ../../source/eipa.rst:1813
+msgid ""
+"(2) If the Minister has determined a quantity of goods under subsection "
+"(1) or (1.1), the Minister may"
+msgstr ""
+
+#: ../../source/eipa.rst:1816
+msgid ""
+"(a) by order, establish a method for allocating the quantity to residents"
+" of Canada who apply for an allocation; and"
+msgstr ""
+
+#: ../../source/eipa.rst:1820
+msgid ""
+"(b) issue an import allocation or an export allocation, as the case may "
+"be, to any resident of Canada who applies for the allocation, subject to "
+"the regulations and any terms and conditions the Minister may specify in "
+"the allocation."
+msgstr ""
+
+#: ../../source/eipa.rst:1826 ../../source/eipa.rst:1955
+msgid "Marginal note:Transfer of allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:1828
+msgid ""
+"(3) The Minister may consent to the transfer of an import allocation or "
+"an export allocation from one resident of Canada to another."
+msgstr ""
+
+#: ../../source/eipa.rst:1832
+msgid "Marginal note:Payments and securities"
+msgstr ""
+
+#: ../../source/eipa.rst:1834
+msgid ""
+"(4) The Minister, in relation to an allocation method established under "
+"paragraph (2)(a) or an import allocation issued under paragraph (2)(b), "
+"may accept payments and may receive any securities specified by the "
+"Minister."
+msgstr ""
+
+#: ../../source/eipa.rst:1839 ../../source/eipa.rst:1892
+msgid "Marginal note:Export charges on certain dairy products — CUSMA"
+msgstr ""
+
+#: ../../source/eipa.rst:1842 ../../source/eipa.rst:1895
+msgid ""
+"(5) The Minister may impose and collect export charges in accordance with"
+" Article 3.A.3 of CUSMA."
+msgstr ""
+
+#: ../../source/eipa.rst:1847
+msgid "1994, c. 47, s. 106"
+msgstr ""
+
+#: ../../source/eipa.rst:1848
+msgid "2017, c. 6, s. 20"
+msgstr ""
+
+#: ../../source/eipa.rst:1849
+msgid "2018, c. 23, s. 15, c. 27, s. 415"
+msgstr ""
+
+#: ../../source/eipa.rst:1850
+msgid "`2020, c. 1, s. 44 <#1237627-1253588>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:1854
+msgid "1237627-1253588"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 44"
+msgstr ""
+
+#: ../../source/eipa.rst:1862
+msgid "Marginal note:2017, c. 6, s. 20"
+msgstr ""
+
+#: ../../source/eipa.rst:1864
+msgid "**44** (1) Subsection 6.2(1.1) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:1885
+msgid ""
+"(2) Section 6.2 of the Act is amended by adding the following after "
+"subsection (4):"
+msgstr ""
+
+#: ../../source/eipa.rst:1901
+msgid "`Previous Version <section-6.2-20181230.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Softwood Lumber Products Export Access"
+msgstr ""
+
+#: ../../source/eipa.rst:1909
+msgid ""
+"**6.3** (1) The following definitions apply in this section and section "
+"6.4."
+msgstr ""
+
+#: ../../source/eipa.rst:1916
+msgid "BC Coast"
+msgstr ""
+
+#: ../../source/eipa.rst:1913
+msgid ""
+"BC Coast means the Coast forest region established by the Forest Regions "
+"and Districts Regulation of British Columbia, as it existed on July 1, "
+"2006. (côte de la Colombie-Britannique)"
+msgstr ""
+
+#: ../../source/eipa.rst:1923
+msgid "BC Interior"
+msgstr ""
+
+#: ../../source/eipa.rst:1919
+msgid ""
+"BC Interior means the Northern Interior forest region and the Southern "
+"Interior forest region established by the Forest Regions and Districts "
+"Regulation of British Columbia, as they existed on July 1, 2006. "
+"(intérieur de la Colombie-Britannique)"
+msgstr ""
+
+#: ../../source/eipa.rst:1927
+msgid "region"
+msgstr ""
+
+#: ../../source/eipa.rst:1926
+msgid ""
+"region means Ontario, Quebec, Manitoba, Saskatchewan, Alberta, the BC "
+"Coast or the BC Interior. (région)"
+msgstr ""
+
+#: ../../source/eipa.rst:1931
+msgid ""
+"(2) If any softwood lumber products have been included on the Export "
+"Control List for the purpose of implementing the softwood lumber "
+"agreement, the Minister may determine the quantity of those products that"
+" may be exported from a region during a month, or the basis for "
+"calculating such quantities, for the purposes of subsection (3) and "
+"section 8.4."
+msgstr ""
+
+#: ../../source/eipa.rst:1941
+msgid ""
+"(3) If the Minister has determined a quantity of products under "
+"subsection (2), the Minister may"
+msgstr ""
+
+#: ../../source/eipa.rst:1944
+msgid ""
+"(a) by order, establish a method for allocating the quantity to persons "
+"registered under section 23 of the `Softwood Lumber Products Export "
+"Charge Act, 2006 </eng/acts/S-12.55>`__ who apply for an allocation; and"
+msgstr ""
+
+#: ../../source/eipa.rst:1950
+msgid ""
+"(b) issue an export allocation for a month to any of those persons "
+"subject to the regulations and any terms and conditions that the Minister"
+" may specify in the export allocation."
+msgstr ""
+
+#: ../../source/eipa.rst:1957
+msgid ""
+"(4) The Minister may consent to the transfer of an export allocation from"
+" one registered person to another registered person."
+msgstr ""
+
+#: ../../source/eipa.rst:1963 ../../source/eipa.rst:1979
+msgid "2006, c. 13, s. 111"
+msgstr ""
+
+#: ../../source/eipa.rst:1965
+msgid "Marginal note:Export from a region"
+msgstr ""
+
+#: ../../source/eipa.rst:1967
+msgid ""
+"**6.4** An exported softwood lumber product is deemed to be exported from"
+" the region where the product underwent its first primary processing, as "
+"defined in section 2 of the `Softwood Lumber Products Export Charge Act, "
+"2006 </eng/acts/S-12.55>`__. If, however, the exported product underwent "
+"its first primary processing in Nova Scotia, New Brunswick, Prince Edward"
+" Island, Newfoundland and Labrador, Yukon, the Northwest Territories or "
+"Nunavut from softwood sawlogs originating in a region, it is deemed to be"
+" exported from that region."
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Permits and Certificates"
+msgstr ""
+
+#: ../../source/eipa.rst:1985
+msgid "Marginal note:Export permits"
+msgstr ""
+
+#: ../../source/eipa.rst:1987
+msgid ""
+"**7** (1) Subject to subsection (2), the Minister may issue to any "
+"resident of Canada applying therefor a permit to export or transfer goods"
+" or technology included in an Export Control List or to export or "
+"transfer goods or technology to a country included in an Area Control "
+"List, in such quantity and of such quality, by such persons, to such "
+"places or persons and subject to such other terms and conditions as are "
+"described in the permit or in the regulations."
+msgstr ""
+
+#: ../../source/eipa.rst:1996
+msgid "(1.01) [Repealed, 2018, c. 26, s. 6]"
+msgstr ""
+
+#: ../../source/eipa.rst:1998 ../../source/eipa.rst:2604
+msgid "Marginal note:General permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2000
+msgid ""
+"(1.1) Notwithstanding subsection (1), the Minister may, by order, issue "
+"generally to all residents of Canada a general permit to export or "
+"transfer to any country specified in the permit any goods or technology "
+"included in an Export Control List that are specified in the permit, "
+"subject to such terms and conditions as are described in the permit."
+msgstr ""
+
+#: ../../source/eipa.rst:2007
+msgid "Marginal note:Export permit for automatic firearm"
+msgstr ""
+
+#: ../../source/eipa.rst:2009
+msgid ""
+"(2) The Minister may not issue a permit under subsection (1) to export "
+"any thing referred to in any of paragraphs 4.1(a) to (c), or any "
+"component or part of such a thing, that is included in an Export Control "
+"List unless"
+msgstr ""
+
+#: ../../source/eipa.rst:2014
+msgid ""
+"(a) the export is to a country included in an Automatic Firearms Country "
+"Control List; and"
+msgstr ""
+
+#: ../../source/eipa.rst:2017
+msgid ""
+"(b) the prohibited weapon or component or part thereof is exported to the"
+" government of, or a consignee authorized by the government of, that "
+"country."
+msgstr ""
+
+#: ../../source/eipa.rst:2023
+msgid "R.S., 1985, c. E-19, s. 7"
+msgstr ""
+
+#: ../../source/eipa.rst:2025
+msgid "1994, c. 47, s. 107"
+msgstr ""
+
+#: ../../source/eipa.rst:2026
+msgid "1995, c. 39, s. 172"
+msgstr ""
+
+#: ../../source/eipa.rst:2027
+msgid "2004, c. 15, s. 56"
+msgstr ""
+
+#: ../../source/eipa.rst:2028
+msgid "`2018, c. 26, s. 7 <#1038978-1201361>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2032
+msgid "1038978-1201361"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 7"
+msgstr ""
+
+#: ../../source/eipa.rst:2040
+msgid "Marginal note:2004, c. 15, s. 56"
+msgstr ""
+
+#: ../../source/eipa.rst:2042
+msgid "**7** Subsection 7(1.01) of the Act is repealed."
+msgstr ""
+
+#: ../../source/eipa.rst:2046
+msgid "`Previous Version <section-7-20070331.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2048 ../../source/eipa.rst:2085
+#: ../../source/eipa.rst:2214 ../../source/eipa.rst:2370
+#: ../../source/eipa.rst:2498
+msgid "Marginal note:Brokering permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2050 ../../source/eipa.rst:2087
+#: ../../source/eipa.rst:2216 ../../source/eipa.rst:2372
+#: ../../source/eipa.rst:2500
+msgid ""
+"**7.1** (1) The Minister may issue to any person or organization, on "
+"application by them, a permit to broker in relation to any goods or "
+"technology specified in the permit, subject to the terms and conditions "
+"specified in the permit or in the regulations."
+msgstr ""
+
+#: ../../source/eipa.rst:2056 ../../source/eipa.rst:2095
+#: ../../source/eipa.rst:2224 ../../source/eipa.rst:2380
+#: ../../source/eipa.rst:2508
+msgid "Marginal note:General permit to broker"
+msgstr ""
+
+#: ../../source/eipa.rst:2058 ../../source/eipa.rst:2097
+#: ../../source/eipa.rst:2226 ../../source/eipa.rst:2382
+#: ../../source/eipa.rst:2510
+msgid ""
+"(2) Despite subsection (1), the Minister may, by order, issue generally "
+"to all persons and organizations a general permit to broker in relation "
+"to any goods or technology specified in the permit, subject to any terms "
+"and conditions specified in the permit."
+msgstr ""
+
+#: ../../source/eipa.rst:2066
+msgid "`2018, c. 26, s. 8 <#1038981-1201368>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2070
+msgid "1038981-1201368"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 8"
+msgstr ""
+
+#: ../../source/eipa.rst:2078 ../../source/eipa.rst:2207
+#: ../../source/eipa.rst:2363 ../../source/eipa.rst:2491
+msgid "**8** The Act is amended by adding the following after section 7:"
+msgstr ""
+
+#: ../../source/eipa.rst:2105 ../../source/eipa.rst:2182
+#: ../../source/eipa.rst:2234 ../../source/eipa.rst:2390
+#: ../../source/eipa.rst:2518
+msgid "Marginal note:Security considerations — export and brokering"
+msgstr ""
+
+#: ../../source/eipa.rst:2108 ../../source/eipa.rst:2237
+#: ../../source/eipa.rst:2393 ../../source/eipa.rst:2521
+msgid ""
+"**7.2** In deciding whether to issue a permit under subsection 7(1) or "
+"7.1(1), the Minister may, in addition to any other matter that the "
+"Minister may consider, take into consideration whether the goods or "
+"technology specified in the application for the permit may be used for a "
+"purpose prejudicial to the safety or interests of the State by being used"
+" to do anything referred to in paragraphs 3(1)(a) to (n) of the Security "
+"of Information Act."
+msgstr ""
+
+#: ../../source/eipa.rst:2120 ../../source/eipa.rst:2249
+#: ../../source/eipa.rst:2311 ../../source/eipa.rst:2405
+#: ../../source/eipa.rst:2533
+msgid "Marginal note:Mandatory considerations — export and brokering"
+msgstr ""
+
+#: ../../source/eipa.rst:2123 ../../source/eipa.rst:2252
+#: ../../source/eipa.rst:2313 ../../source/eipa.rst:2408
+#: ../../source/eipa.rst:2536
+msgid ""
+"**7.3** (1) In deciding whether to issue a permit under subsection 7(1) "
+"or 7.1(1) in respect of arms, ammunition, implements or munitions of war,"
+" the Minister shall take into consideration whether the goods or "
+"technology specified in the application for the permit"
+msgstr ""
+
+#: ../../source/eipa.rst:2131 ../../source/eipa.rst:2260
+#: ../../source/eipa.rst:2319 ../../source/eipa.rst:2416
+#: ../../source/eipa.rst:2544
+msgid "(a) would contribute to peace and security or undermine it; and"
+msgstr ""
+
+#: ../../source/eipa.rst:2134 ../../source/eipa.rst:2263
+#: ../../source/eipa.rst:2322 ../../source/eipa.rst:2419
+#: ../../source/eipa.rst:2547
+msgid "(b) could be used to commit or facilitate"
+msgstr ""
+
+#: ../../source/eipa.rst:2137 ../../source/eipa.rst:2266
+#: ../../source/eipa.rst:2324 ../../source/eipa.rst:2422
+#: ../../source/eipa.rst:2550
+msgid "(i) a serious violation of international humanitarian law,"
+msgstr ""
+
+#: ../../source/eipa.rst:2140 ../../source/eipa.rst:2269
+#: ../../source/eipa.rst:2327 ../../source/eipa.rst:2425
+#: ../../source/eipa.rst:2553
+msgid "(ii) a serious violation of international human rights law,"
+msgstr ""
+
+#: ../../source/eipa.rst:2143 ../../source/eipa.rst:2272
+#: ../../source/eipa.rst:2330 ../../source/eipa.rst:2428
+#: ../../source/eipa.rst:2556
+msgid ""
+"(iii) an act constituting an offence under international conventions or "
+"protocols relating to terrorism to which Canada is a party,"
+msgstr ""
+
+#: ../../source/eipa.rst:2148 ../../source/eipa.rst:2277
+#: ../../source/eipa.rst:2334 ../../source/eipa.rst:2433
+#: ../../source/eipa.rst:2561
+msgid ""
+"(iv) an act constituting an offence under international conventions or "
+"protocols relating to transnational organized crime to which Canada is a "
+"party, or"
+msgstr ""
+
+#: ../../source/eipa.rst:2154 ../../source/eipa.rst:2283
+#: ../../source/eipa.rst:2339 ../../source/eipa.rst:2439
+#: ../../source/eipa.rst:2567
+msgid ""
+"(v) serious acts of gender-based violence or serious acts of violence "
+"against women and children."
+msgstr ""
+
+#: ../../source/eipa.rst:2158 ../../source/eipa.rst:2287
+#: ../../source/eipa.rst:2342 ../../source/eipa.rst:2443
+#: ../../source/eipa.rst:2571
+msgid "Marginal note:Additional mandatory considerations"
+msgstr ""
+
+#: ../../source/eipa.rst:2161 ../../source/eipa.rst:2290
+#: ../../source/eipa.rst:2344 ../../source/eipa.rst:2446
+#: ../../source/eipa.rst:2574
+msgid ""
+"(2) In deciding whether to issue a permit under subsection 7(1) or "
+"7.1(1), the Minister shall also take into consideration the "
+"considerations specified in regulations made under paragraphs 12(a.2) or "
+"(a.3)."
+msgstr ""
+
+#: ../../source/eipa.rst:2168 ../../source/eipa.rst:2297
+#: ../../source/eipa.rst:2453 ../../source/eipa.rst:2467
+#: ../../source/eipa.rst:2581
+msgid "Marginal note:Substantial risk"
+msgstr ""
+
+#: ../../source/eipa.rst:2170 ../../source/eipa.rst:2299
+#: ../../source/eipa.rst:2455 ../../source/eipa.rst:2469
+#: ../../source/eipa.rst:2583
+msgid ""
+"**7.4** The Minister shall not issue a permit under subsection 7(1) or "
+"7.1(1) in respect of arms, ammunition, implements or munitions of war if,"
+" after considering available mitigating measures, he or she determines "
+"that there is a substantial risk that the export or the brokering of the "
+"goods or technology specified in the application for the permit would "
+"result in any of the negative consequences referred to in subsection "
+"7.3(1)."
+msgstr ""
+
+#: ../../source/eipa.rst:2184
+msgid ""
+"**7.2** In deciding whether to issue a permit under subsection 7(1) or "
+"7.1(1), the Minister may, in addition to any other matter that the "
+"Minister may consider, take into consideration whether the goods or "
+"technology specified in the application for the permit may be used for a "
+"purpose prejudicial to the safety or interests of the State by being used"
+" to do anything referred to in paragraphs 3(1)(a) to (n) of the `Security"
+" of Information Act </eng/acts/O-5>`__."
+msgstr ""
+
+#: ../../source/eipa.rst:2195
+msgid "`2018, c. 26, s. 8 <#1038981-1201372>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2199
+msgid "1038981-1201372"
+msgstr ""
+
+#: ../../source/eipa.rst:2351
+msgid "`2018, c. 26, s. 8 <#1038981-1201386>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2355
+msgid "1038981-1201386"
+msgstr ""
+
+#: ../../source/eipa.rst:2479
+msgid "`2018, c. 26, s. 8 <#1038981-1201390>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2483
+msgid "1038981-1201390"
+msgstr ""
+
+#: ../../source/eipa.rst:2595 ../../source/eipa.rst:2612
+msgid "Marginal note:Import permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2597
+msgid ""
+"**8** (1) The Minister may issue to any resident of Canada applying "
+"therefor a permit to import goods included in an Import Control List, in "
+"such quantity and of such quality, by such persons, from such places or "
+"persons and subject to such other terms and conditions as are described "
+"in the permit or in the regulations."
+msgstr ""
+
+#: ../../source/eipa.rst:2606
+msgid ""
+"(1.1) Notwithstanding subsection (1), the Minister may, by order, issue "
+"generally to all residents of Canada a general permit to import any goods"
+" included on the Import Control List that are specified in the permit, "
+"subject to such terms and conditions as are described in the permit."
+msgstr ""
+
+#: ../../source/eipa.rst:2614
+msgid ""
+"(2) Notwithstanding subsection (1) and any regulation made under section "
+"12 that is not compatible with the purpose of this subsection, if goods "
+"are included on the Import Control List solely for the purpose of "
+"collecting information pursuant to subsection 5(4.3), (5) or (6) or "
+"5.4(6), (7) or (8), the Minister shall issue to any resident of Canada "
+"applying therefor a permit to import those goods, subject only to "
+"compliance with and the application of any regulations made under section"
+" 12 that it is reasonably necessary to comply with or apply in order to "
+"achieve that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:2626
+msgid "(2.1) and (2.2) [Repealed, 1997, c. 14, s. 75]"
+msgstr ""
+
+#: ../../source/eipa.rst:2628 ../../source/eipa.rst:2675
+msgid "Marginal note:Goods imported from free trade partner"
+msgstr ""
+
+#: ../../source/eipa.rst:2630 ../../source/eipa.rst:2678
+msgid ""
+"(3) If an order has been made under subsection 5(3) or (3.2) that "
+"applies, by virtue of subsection 5(4), to goods imported from a free "
+"trade partner, or an order has been made under subsection 5(4.1), the "
+"Minister shall, in determining whether to issue a permit under this "
+"section, be guided, as the case may be, by"
+msgstr ""
+
+#: ../../source/eipa.rst:2637 ../../source/eipa.rst:2687
+msgid "(a) Article 10.2 of CUSMA;"
+msgstr ""
+
+#: ../../source/eipa.rst:2639 ../../source/eipa.rst:2689
+msgid "(b) subparagraph 5(b) of Article F-02 of CCFTA; or"
+msgstr ""
+
+#: ../../source/eipa.rst:2641 ../../source/eipa.rst:2692
+msgid "(c) subparagraph 5(b) of Article 4.6 of CIFTA."
+msgstr ""
+
+#: ../../source/eipa.rst:2643
+msgid "(4) [Repealed, 1997, c. 14, s. 75]"
+msgstr ""
+
+#: ../../source/eipa.rst:2647
+msgid "R.S., 1985, c. E-19, s. 8"
+msgstr ""
+
+#: ../../source/eipa.rst:2648
+msgid "1988, c. 65, s. 119"
+msgstr ""
+
+#: ../../source/eipa.rst:2649
+msgid "1993, c. 44, s. 150"
+msgstr ""
+
+#: ../../source/eipa.rst:2650
+msgid "1994, c. 47, s. 108"
+msgstr ""
+
+#: ../../source/eipa.rst:2651
+msgid "1996, c. 33, s. 60"
+msgstr ""
+
+#: ../../source/eipa.rst:2652
+msgid "1997, c. 14, s. 75"
+msgstr ""
+
+#: ../../source/eipa.rst:2653
+msgid "2002, c. 19, s. 14"
+msgstr ""
+
+#: ../../source/eipa.rst:2654
+msgid "`2020, c. 1, s. 45 <#1237634-1253594>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2658
+msgid "1237634-1253594"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 45"
+msgstr ""
+
+#: ../../source/eipa.rst:2666
+msgid "Marginal note:1997, c. 14, s. 75"
+msgstr ""
+
+#: ../../source/eipa.rst:2668
+msgid "**45** Subsection 8(3) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:2697
+msgid "`Previous Version <section-8-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2699
+msgid "Marginal note:Import and export permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2701
+msgid ""
+"**8.1** Notwithstanding section 7, subsection 8(1) and any regulation "
+"made pursuant to section 12 that is not compatible with the purpose of "
+"this section, where a certain type of steel or a product made of steel is"
+" included on the Export Control List or the Import Control List solely "
+"for the purpose described in subsection 5.1(1), the Minister shall issue "
+"to any resident of Canada applying therefor a permit to export or import,"
+" as the case may be, that type of steel or that product, subject only to "
+"compliance with and the application of such regulations made pursuant to "
+"section 12 as it is reasonably necessary to comply with or apply in order"
+" to achieve that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:2716
+msgid "R.S., 1985, c. 13 (3rd Supp.), s. 2"
+msgstr ""
+
+#: ../../source/eipa.rst:2718
+msgid "Marginal note:Minister to issue permit"
+msgstr ""
+
+#: ../../source/eipa.rst:2720
+msgid ""
+"**8.2** Notwithstanding section 7, subsection 8(1) and any regulation "
+"made pursuant to section 12 that is not compatible with the purpose of "
+"this section, if goods are included on the Export Control List or the "
+"Import Control List solely for the purpose described in subsection "
+"5.2(1), (2) or (3), the Minister shall issue to any resident of Canada "
+"applying therefor a permit to export or import, as the case may be, those"
+" goods, subject only to compliance with and the application of such "
+"regulations made under section 12 as it is reasonably necessary to comply"
+" with or apply in order to achieve that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:2734
+msgid "1988, c. 65, s. 120"
+msgstr ""
+
+#: ../../source/eipa.rst:2735
+msgid "1993, c. 44, s. 151"
+msgstr ""
+
+#: ../../source/eipa.rst:2736
+msgid "1997, c. 14, s. 76"
+msgstr ""
+
+#: ../../source/eipa.rst:2738
+msgid "Marginal note:Import permits — allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:2740
+msgid ""
+"**8.3** (1) Notwithstanding subsection 8(1), where goods have been "
+"included on the Import Control List for the purpose of implementing an "
+"intergovernmental arrangement or commitment and the Minister has "
+"determined an import access quantity for the goods pursuant to subsection"
+" 6.2(1), the Minister shall issue a permit to import those goods to any "
+"resident of Canada who has an import allocation for the goods and applies"
+" for the permit, subject only to compliance with and the application of "
+"such regulations made pursuant to section 12 as it is reasonably "
+"necessary to comply with or apply in order to achieve that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:2752
+msgid "Marginal note:Import permits — no allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:2754
+msgid ""
+"(2) Notwithstanding subsection 8(1), where goods have been included on "
+"the Import Control List for the purpose of implementing an "
+"intergovernmental arrangement or commitment and the Minister has "
+"determined an import access quantity for the goods pursuant to subsection"
+" 6.2(1), but has not issued import allocations for the goods, the "
+"Minister shall"
+msgstr ""
+
+#: ../../source/eipa.rst:2761
+msgid ""
+"(a) if in the opinion of the Minister the import access quantity has not "
+"been exceeded, issue a permit to import those goods to any resident of "
+"Canada who applies for the permit, or"
+msgstr ""
+
+#: ../../source/eipa.rst:2766
+msgid ""
+"(b) issue generally to all residents of Canada a general permit to import"
+" those goods,"
+msgstr ""
+
+#: ../../source/eipa.rst:2769
+msgid ""
+"subject only to compliance with and the application of such regulations "
+"made pursuant to section 12 as it is reasonably necessary to comply with "
+"or apply in order to achieve that purpose."
+msgstr ""
+
+#: ../../source/eipa.rst:2774
+msgid "Marginal note:Supplemental import permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2776
+msgid ""
+"(3) Notwithstanding subsection 8(1) and subsections (1) and (2) of this "
+"section, where goods have been included on the Import Control List and "
+"the Minister has determined an import access quantity for the goods "
+"pursuant to subsection 6.2(1), the Minister may issue"
+msgstr ""
+
+#: ../../source/eipa.rst:2782
+msgid ""
+"(a) a permit to import those goods in a supplemental quantity to any "
+"resident of Canada who applies for the permit, or"
+msgstr ""
+
+#: ../../source/eipa.rst:2786
+msgid ""
+"(b) generally to all residents of Canada a general permit to import those"
+" goods in a supplemental quantity,"
+msgstr ""
+
+#: ../../source/eipa.rst:2789
+msgid ""
+"subject to such terms and conditions as are described in the permit or in"
+" the regulations."
+msgstr ""
+
+#: ../../source/eipa.rst:2794
+msgid "1994, c. 47, s. 109"
+msgstr ""
+
+#: ../../source/eipa.rst:2796
+msgid "Marginal note:Export permits — allocation"
+msgstr ""
+
+#: ../../source/eipa.rst:2798
+msgid ""
+"**8.31** Despite subsection 7(1), if goods have been included on the "
+"Export Control List, the Minister shall, at the request of any person who"
+" has been issued an export allocation under paragraph 6.2(2)(b) with "
+"respect to the goods, issue to that person a permit to export the goods, "
+"subject to"
+msgstr ""
+
+#: ../../source/eipa.rst:2804
+msgid "(a) the export allocation; and"
+msgstr ""
+
+#: ../../source/eipa.rst:2806 ../../source/eipa.rst:2826
+msgid "(b) the person’s compliance with any regulations made under section 12."
+msgstr ""
+
+#: ../../source/eipa.rst:2811
+msgid "2017, c. 6, s. 21"
+msgstr ""
+
+#: ../../source/eipa.rst:2813
+msgid "Marginal note:Export permits for softwood lumber products"
+msgstr ""
+
+#: ../../source/eipa.rst:2815
+msgid ""
+"**8.4** Despite subsection 7(1), if softwood lumber products have been "
+"included on the Export Control List for the purpose of implementing the "
+"softwood lumber agreement, the Minister shall issue a permit to export "
+"those products to any person registered under section 23 of the `Softwood"
+" Lumber Products Export Charge Act, 2006 </eng/acts/S-12.55>`__ who "
+"applies for the permit, subject only to"
+msgstr ""
+
+#: ../../source/eipa.rst:2823
+msgid ""
+"(a) any export allocation issued to that person under paragraph "
+"6.3(3)(b); and"
+msgstr ""
+
+#: ../../source/eipa.rst:2831 ../../source/eipa.rst:2841
+msgid "2006, c. 13, s. 112"
+msgstr ""
+
+#: ../../source/eipa.rst:2833 ../../source/eipa.rst:2863
+msgid "Marginal note:Retroactive permits"
+msgstr ""
+
+#: ../../source/eipa.rst:2835 ../../source/eipa.rst:2865
+msgid ""
+"**8.5** An export permit, import permit or brokering permit issued under "
+"this Act may, if the permit so provides, be retroactive."
+msgstr ""
+
+#: ../../source/eipa.rst:2842
+msgid "`2018, c. 26, s. 9 <#1038983-1201391>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2846
+msgid "1038983-1201391"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 9"
+msgstr ""
+
+#: ../../source/eipa.rst:2854
+msgid "Marginal note:2006, c. 13, s. 112"
+msgstr ""
+
+#: ../../source/eipa.rst:2856
+msgid "**9** Section 8.5 of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:2871
+msgid "`Previous Version <section-8.5-20061214.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2873
+msgid "Marginal note:Import certificates"
+msgstr ""
+
+#: ../../source/eipa.rst:2875
+msgid ""
+"**9** The Minister may, in order to facilitate importation of goods into "
+"Canada and compliance with the laws of the country of export, issue to "
+"any resident of Canada applying therefor an import certificate stating "
+"that the applicant has undertaken to import the goods described in the "
+"certificate within the time specified therein and containing such other "
+"information as the regulations require."
+msgstr ""
+
+#: ../../source/eipa.rst:2885
+msgid "R.S., c. E-17, s. 9"
+msgstr ""
+
+#: ../../source/eipa.rst:2887
+msgid "**9.01** [Repealed, 1997, c. 14, s. 77]"
+msgstr ""
+
+#: ../../source/eipa.rst:2889
+msgid "Marginal note:Minister may issue certificate — Schedule 4"
+msgstr ""
+
+#: ../../source/eipa.rst:2891
+msgid ""
+"**9.1** The Minister may, for the purpose of implementing an "
+"intergovernmental arrangement with a country listed in column 1 of "
+"Schedule 4 or with an international organization acting on behalf of such"
+" a country — or of implementing an intergovernmental arrangement "
+"applicable to a territory listed in column 1  — respecting the "
+"administration of the provisions set out in column 2, issue a certificate"
+" with respect to an exportation of goods to that country or territory "
+"stating the specific quantity of those goods that, on importation into "
+"the country or territory, is eligible for the rate of duty provided for "
+"in the provisions set out in column 3."
+msgstr ""
+
+#: ../../source/eipa.rst:2905
+msgid "1988, c. 65, s. 121"
+msgstr ""
+
+#: ../../source/eipa.rst:2906
+msgid "1997, c. 14, s. 77"
+msgstr ""
+
+#: ../../source/eipa.rst:2907
+msgid "2001, c. 28, s. 50"
+msgstr ""
+
+#: ../../source/eipa.rst:2908
+msgid "2014, c. 14, s. 19"
+msgstr ""
+
+#: ../../source/eipa.rst:2909
+msgid "2017, c. 6, s. 22"
+msgstr ""
+
+#: ../../source/eipa.rst:2913
+msgid "`Previous Version <section-9.1-20141001.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:2915
+msgid "Marginal note:Minister may issue certificate"
+msgstr ""
+
+#: ../../source/eipa.rst:2917
+msgid ""
+"**9.2** For the purpose of implementing an intergovernmental arrangement "
+"with any country or customs territory respecting the administration of "
+"any limitation imposed on the quantity of goods that may be imported into"
+" that country or customs territory in any period, the Minister may issue "
+"to any resident of Canada who applies, a certificate with respect to an "
+"exportation of the goods to the country or customs territory stating the "
+"specific quantity of the goods in the shipment in respect of which the "
+"certificate is issued that, on importation into the country or customs "
+"territory, is eligible for the benefit provided for goods imported within"
+" that limitation."
+msgstr ""
+
+#: ../../source/eipa.rst:2931
+msgid "1994, c. 47, s. 110"
+msgstr ""
+
+#: ../../source/eipa.rst:2933 ../../source/eipa.rst:2940
+msgid "Marginal note:Alteration of permits, etc."
+msgstr ""
+
+#: ../../source/eipa.rst:2935
+msgid ""
+"**10** (1) Subject to subsection (3), the Minister may amend, suspend, "
+"cancel or reinstate any permit, import allocation, export allocation, "
+"certificate or other authorization issued or granted under this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:2942
+msgid ""
+"(2) If a permit has been issued under this Act to any person for the "
+"exportation or importation of goods that have been included on the Export"
+" Control List or the Import Control List solely for the purpose described"
+" in subsection 5(4.3), (5) or (6), 5.1(1), 5.2(1), (2) or (3) or 5.4(6), "
+"(7) or (8), and"
+msgstr ""
+
+#: ../../source/eipa.rst:2949
+msgid ""
+"(a) the person furnished, in or in connection with his application for "
+"the permit, information that was false or misleading in a material "
+"particular,"
+msgstr ""
+
+#: ../../source/eipa.rst:2953
+msgid ""
+"(b) the Minister has, subsequent to the issuance of the permit and on the"
+" application of the person, issued to the person under this Act another "
+"permit for the exportation or the importation of the same goods,"
+msgstr ""
+
+#: ../../source/eipa.rst:2958
+msgid ""
+"(c) the goods have, subsequent to the issuance of the permit, been "
+"included on the Export Control List or the Import Control List for a "
+"purpose other than that described in subsection 5(4.3), (5) or (6), "
+"5.1(1), 5.2(1), (2) or (3) or 5.4(6), (7) or (8),"
+msgstr ""
+
+#: ../../source/eipa.rst:2964
+msgid ""
+"(d) it becomes necessary or desirable to correct an error in the permit, "
+"or"
+msgstr ""
+
+#: ../../source/eipa.rst:2967
+msgid ""
+"(e) the person agrees to the amendment, suspension or cancellation of the"
+" permit,"
+msgstr ""
+
+#: ../../source/eipa.rst:2970
+msgid ""
+"the Minister may amend, suspend or cancel the permit, as is appropriate "
+"in the circumstances."
+msgstr ""
+
+#: ../../source/eipa.rst:2973
+msgid "Marginal note:Idem"
+msgstr ""
+
+#: ../../source/eipa.rst:2975
+msgid ""
+"(3) Except as provided in subsection (2), the Minister shall not amend, "
+"suspend or cancel a permit that has been issued under this Act in the "
+"circumstances described in that subsection unless to do so would be "
+"compatible with the purpose of subsection 8(2) or section 8.1 or 8.2, "
+"namely, that permits to export or to import goods that have been included"
+" on the Export Control List or the Import Control List in those "
+"circumstances be issued as freely as possible to persons wishing to "
+"export or import those goods and with no more inconvenience to those "
+"persons than is necessary to achieve the purpose for which the goods were"
+" placed on that List."
+msgstr ""
+
+#: ../../source/eipa.rst:2990
+msgid "R.S., 1985, c. E-19, s. 10"
+msgstr ""
+
+#: ../../source/eipa.rst:2991
+msgid "R.S., 1985, c. 13 (3rd Supp.), s. 3"
+msgstr ""
+
+#: ../../source/eipa.rst:2992
+msgid "1988, c. 65, s. 122"
+msgstr ""
+
+#: ../../source/eipa.rst:2993
+msgid "1993, c. 44, s. 153"
+msgstr ""
+
+#: ../../source/eipa.rst:2994
+msgid "1994, c. 47, s. 111"
+msgstr ""
+
+#: ../../source/eipa.rst:2995
+msgid "1996, c. 33, s. 61"
+msgstr ""
+
+#: ../../source/eipa.rst:2996
+msgid "1997, c. 14, s. 78"
+msgstr ""
+
+#: ../../source/eipa.rst:2997
+msgid "2002, c. 19, s. 15"
+msgstr ""
+
+#: ../../source/eipa.rst:2998
+msgid "2006, c. 13, s. 113"
+msgstr ""
+
+#: ../../source/eipa.rst:3002
+msgid "`Previous Version <section-10-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3004
+msgid "Marginal note:Inspectors"
+msgstr ""
+
+#: ../../source/eipa.rst:3006
+msgid ""
+"**10.1** The Minister may designate as an inspector any person who, in "
+"the Minister’s opinion, is qualified to be so designated."
+msgstr ""
+
+#: ../../source/eipa.rst:3012 ../../source/eipa.rst:3090
+#: ../../source/eipa.rst:3215
+msgid "2006, c. 13, s. 114"
+msgstr ""
+
+#: ../../source/eipa.rst:3014 ../../source/eipa.rst:3112
+msgid "Marginal note:Inspection"
+msgstr ""
+
+#: ../../source/eipa.rst:3016 ../../source/eipa.rst:3114
+msgid ""
+"**10.2** (1) An inspector may, at all reasonable times, for any purpose "
+"related to the administration or enforcement of this Act, inspect, audit "
+"or examine the records of any person or organization that has applied for"
+" a permit, an import allocation, an export allocation, a certificate or "
+"another authorization under this Act in order to determine whether that "
+"or any other person or organization is in compliance with this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3025
+msgid "Marginal note:Powers of inspector"
+msgstr ""
+
+#: ../../source/eipa.rst:3027
+msgid ""
+"(2) For the purposes of an inspection, audit or examination, an inspector"
+" may"
+msgstr ""
+
+#: ../../source/eipa.rst:3030 ../../source/eipa.rst:3136
+msgid ""
+"(a) enter any place in which the inspector reasonably believes the person"
+" or organization keeps records or carries on any activity to which this "
+"Act applies; and"
+msgstr ""
+
+#: ../../source/eipa.rst:3034
+msgid ""
+"(b) require any individual to be present during the inspection, audit or "
+"examination and require that individual to answer all proper questions "
+"and to give to the inspector all reasonable assistance."
+msgstr ""
+
+#: ../../source/eipa.rst:3039
+msgid "Marginal note:Prior authorization"
+msgstr ""
+
+#: ../../source/eipa.rst:3041
+msgid ""
+"(3) If any place referred to in paragraph (2)(a) is a dwelling-house, an "
+"inspector may not enter that dwelling-house without the consent of the "
+"occupant, except under the authority of a warrant issued under subsection"
+" (4)."
+msgstr ""
+
+#: ../../source/eipa.rst:3047
+msgid "Marginal note:Warrant to enter dwelling-house"
+msgstr ""
+
+#: ../../source/eipa.rst:3049
+msgid ""
+"(4) A judge may issue a warrant authorizing an inspector to enter a "
+"dwelling-house subject to the conditions specified in the warrant if, on "
+"ex parte application by the inspector, a judge is satisfied by "
+"information on oath that"
+msgstr ""
+
+#: ../../source/eipa.rst:3054
+msgid ""
+"(a) there are reasonable grounds to believe that the dwelling-house is a "
+"place referred to in paragraph (2)(a);"
+msgstr ""
+
+#: ../../source/eipa.rst:3058
+msgid ""
+"(b) entry into the dwelling-house is necessary for any purpose related to"
+" the administration or enforcement of this Act; and"
+msgstr ""
+
+#: ../../source/eipa.rst:3062
+msgid ""
+"(c) entry into the dwelling-house has been, or there are reasonable "
+"grounds to believe that entry will be, refused."
+msgstr ""
+
+#: ../../source/eipa.rst:3066
+msgid "Marginal note:Orders if entry not authorized"
+msgstr ""
+
+#: ../../source/eipa.rst:3068
+msgid ""
+"(5) If the judge is not satisfied that entry into the dwelling-house is "
+"necessary for any purpose related to the administration or enforcement of"
+" this Act, the judge may, to the extent that access was or may be "
+"expected to be refused and that a record is or may be expected to be kept"
+" in the dwelling-house,"
+msgstr ""
+
+#: ../../source/eipa.rst:3075
+msgid ""
+"(a) order the occupant of the dwelling-house to provide the inspector "
+"with reasonable access to any record that is or should be kept in the "
+"dwelling-house; and"
+msgstr ""
+
+#: ../../source/eipa.rst:3079
+msgid ""
+"(b) make any other order that is appropriate in the circumstances to "
+"carry out the purposes of this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3082
+msgid "Marginal note:Copies of records"
+msgstr ""
+
+#: ../../source/eipa.rst:3084
+msgid ""
+"(6) When an inspector inspects, audits, examines or is provided a record "
+"under this section, the inspector may make, or cause to be made, one or "
+"more copies of the record."
+msgstr ""
+
+#: ../../source/eipa.rst:3091
+msgid "`2018, c. 26, s. 10 <#1038996-1201238>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3095
+msgid "1038996-1201238"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 10"
+msgstr ""
+
+#: ../../source/eipa.rst:3103 ../../source/eipa.rst:3127
+#: ../../source/eipa.rst:3228 ../../source/eipa.rst:3247
+msgid "Marginal note:2006, c. 13, s. 114"
+msgstr ""
+
+#: ../../source/eipa.rst:3105
+msgid "**10** (1) Subsection 10.2(1) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3129
+msgid "(2) Paragraph 10.2(2)(a) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3144
+msgid "`Previous Version <section-10.2-20061214.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3146 ../../source/eipa.rst:3237
+msgid "Marginal note:Keeping records"
+msgstr ""
+
+#: ../../source/eipa.rst:3148 ../../source/eipa.rst:3239
+msgid ""
+"**10.3** (1) Every person or organization that applies for a permit, "
+"import allocation, export allocation, certificate or other authorization "
+"under this Act shall keep all records that are necessary to determine "
+"whether they have complied with this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3154
+msgid "Marginal note:Minister may specify information"
+msgstr ""
+
+#: ../../source/eipa.rst:3156
+msgid ""
+"(2) The Minister may specify in writing the form that a record is to take"
+" and any information that the record must contain."
+msgstr ""
+
+#: ../../source/eipa.rst:3160
+msgid "Marginal note:Language and location of record"
+msgstr ""
+
+#: ../../source/eipa.rst:3162
+msgid ""
+"(3) Unless otherwise authorized by the Minister, a record shall be kept "
+"in Canada in English or French."
+msgstr ""
+
+#: ../../source/eipa.rst:3165 ../../source/eipa.rst:3256
+msgid "Marginal note:Electronic records"
+msgstr ""
+
+#: ../../source/eipa.rst:3167 ../../source/eipa.rst:3258
+msgid ""
+"(4) Every person or organization that is required to keep a record and "
+"that does so electronically shall ensure that all equipment and software "
+"necessary to make the record intelligible are available during the "
+"retention period required for the record."
+msgstr ""
+
+#: ../../source/eipa.rst:3173 ../../source/eipa.rst:3267
+msgid "Marginal note:Inadequate records"
+msgstr ""
+
+#: ../../source/eipa.rst:3175 ../../source/eipa.rst:3269
+msgid ""
+"(5) If a person or organization fails to keep adequate records for the "
+"purposes of this Act, the Minister may, in writing, require them to keep "
+"any records that the Minister may specify, and they shall keep the "
+"records specified by the Minister."
+msgstr ""
+
+#: ../../source/eipa.rst:3181 ../../source/eipa.rst:3277
+msgid "Marginal note:General period for retention"
+msgstr ""
+
+#: ../../source/eipa.rst:3183 ../../source/eipa.rst:3280
+msgid ""
+"(6) Every person or organization that is required to keep records shall "
+"retain them until the expiry of six years after the end of the year to "
+"which they relate or for any other period that may be prescribed by "
+"regulation."
+msgstr ""
+
+#: ../../source/eipa.rst:3188 ../../source/eipa.rst:3288
+msgid "Marginal note:Demand by Minister"
+msgstr ""
+
+#: ../../source/eipa.rst:3190 ../../source/eipa.rst:3290
+msgid ""
+"(7) If the Minister is of the opinion that it is necessary for the "
+"administration or enforcement of this Act, the Minister may, by a demand "
+"served personally or sent by mail, require any person or organization "
+"that is required to keep records to retain those records for any period "
+"that is specified in the demand, and the person or organization shall "
+"comply with the demand."
+msgstr ""
+
+#: ../../source/eipa.rst:3198 ../../source/eipa.rst:3302
+msgid "Marginal note:Permission for earlier disposal"
+msgstr ""
+
+#: ../../source/eipa.rst:3200 ../../source/eipa.rst:3305
+msgid ""
+"(8) A person or organization that is required to keep records may dispose"
+" of them before the expiry of the period during which they are required "
+"to be kept if written permission for their disposal is given by the "
+"Minister."
+msgstr ""
+
+#: ../../source/eipa.rst:3205 ../../source/eipa.rst:3312
+msgid "Marginal note:For greater certainty — firearms"
+msgstr ""
+
+#: ../../source/eipa.rst:3207 ../../source/eipa.rst:3315
+msgid ""
+"(9) For greater certainty, this section applies in respect of a firearm "
+"only if the firearm is included in the Export Control List, Brokering "
+"Control List or Import Control List and it is the subject of an "
+"application for a permit, certificate or other authorization under this "
+"Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3216
+msgid "`2018, c. 26, s. 11 <#1039014-1201241>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3220
+msgid "1039014-1201241"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 11"
+msgstr ""
+
+#: ../../source/eipa.rst:3230
+msgid "**11** (1) Subsection 10.3(1) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3249
+msgid "(2) Subsections 10.3(4) to (8) of the Act are replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3326
+msgid "`Previous Version <section-10.3-20061214.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3328
+msgid "Marginal note:Other lawful obligations not affected by permit, etc."
+msgstr ""
+
+#: ../../source/eipa.rst:3331
+msgid ""
+"**11** A permit, certificate or other authorization issued or granted "
+"under this Act does not affect the obligation of any person to obtain any"
+" licence, permit or certificate to export or import that may be required "
+"under this or any other law or to pay any tax, duty, toll, impost or "
+"other sum required by any law to be paid in respect of the exportation or"
+" transfer of goods or technology or the importation of goods."
+msgstr ""
+
+#: ../../source/eipa.rst:3341
+msgid "R.S., 1985, c. E-19, s. 11"
+msgstr ""
+
+#: ../../source/eipa.rst:3342
+msgid "2004, c. 15, s. 57"
+msgstr ""
+
+#: ../../source/eipa.rst:3346
+msgid "`Previous Version <section-11-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Regulations"
+msgstr ""
+
+#: ../../source/eipa.rst:3352
+msgid "Marginal note:Regulations"
+msgstr ""
+
+#: ../../source/eipa.rst:3354
+msgid "**12** The Governor in Council may make regulations"
+msgstr ""
+
+#: ../../source/eipa.rst:3356
+msgid ""
+"(a) prescribing the information, certificates issued by a third party "
+"attesting to a softwood sawlog’s origin and undertakings to be furnished "
+"by applicants for permits, import allocations, export allocations, "
+"certificates or other authorizations under this Act, the procedure to be "
+"followed in applying for and issuing or granting permits, import "
+"allocations, export allocations, certificates or other authorizations, "
+"the duration of them, and the terms and conditions, including those with "
+"reference to shipping or other documents, on which permits, import "
+"allocations, export allocations, certificates or other authorizations may"
+" be issued or granted under this Act;"
+msgstr ""
+
+#: ../../source/eipa.rst:3369
+msgid ""
+"(a.1) respecting the considerations that the Minister must take into "
+"account when deciding whether to issue an import allocation or export "
+"allocation or consent to its transfer;"
+msgstr ""
+
+#: ../../source/eipa.rst:3373 ../../source/eipa.rst:3465
+msgid ""
+"(a.2) specifying, for the purposes of subsection 7.3(2), considerations "
+"that the Minister shall take into consideration when deciding whether to "
+"issue an export permit under subsection 7(1) in respect of goods or "
+"technology included in the Export Control List;"
+msgstr ""
+
+#: ../../source/eipa.rst:3379 ../../source/eipa.rst:3473
+msgid ""
+"(a.3) specifying, for the purposes of subsection 7.3(2), considerations "
+"that the Minister shall take into consideration when deciding whether to "
+"issue a brokering permit under subsection 7.1(1) in respect of goods or "
+"technology included in a Brokering Control List;"
+msgstr ""
+
+#: ../../source/eipa.rst:3385 ../../source/eipa.rst:3482
+msgid ""
+"(b) respecting information to be supplied by persons and organizations "
+"that have been issued or granted permits, import allocations, export "
+"allocations, certificates or other authorizations under this Act and any "
+"other matter associated with their use;"
+msgstr ""
+
+#: ../../source/eipa.rst:3391
+msgid ""
+"(b.1) respecting information to be supplied to specified persons or "
+"specified government entities, including foreign government entities, by "
+"persons who export goods expressly excluded from the Export Control List;"
+msgstr ""
+
+#: ../../source/eipa.rst:3396
+msgid ""
+"(c) respecting the issue of, and conditions or requirements applicable "
+"to, general permits or general certificates;"
+msgstr ""
+
+#: ../../source/eipa.rst:3399 ../../source/eipa.rst:3530
+msgid "(c.01) respecting export charges referred to in subsection 6.2(5);"
+msgstr ""
+
+#: ../../source/eipa.rst:3402
+msgid ""
+"(c.02) respecting the considerations that the Minister must take into "
+"account when deciding whether to issue a certificate under section 9.2;"
+msgstr ""
+
+#: ../../source/eipa.rst:3406
+msgid ""
+"(c.1) providing for considerations to be taken into account by the "
+"Minister in the issuance of certificates under section 9.1;"
+msgstr ""
+
+#: ../../source/eipa.rst:3410
+msgid ""
+"(c.2) defining “origin” for the purposes of this Act or any provision "
+"thereof;"
+msgstr ""
+
+#: ../../source/eipa.rst:3413
+msgid ""
+"(c.3) respecting the application, for the purposes of this Act or any "
+"provision thereof, of any regulations made under the `Customs Tariff "
+"</eng/acts/C-54.011>`__ respecting the origin of goods;"
+msgstr ""
+
+#: ../../source/eipa.rst:3418
+msgid ""
+"(d) respecting the certification, authorization or other control of any "
+"in-transit movement through any port or place of any goods or technology "
+"that is exported or transferred from Canada or of any goods that come "
+"into any port or place in Canada;"
+msgstr ""
+
+#: ../../source/eipa.rst:3424 ../../source/eipa.rst:3499
+msgid ""
+"(e) exempting any person or organization, any goods or technology or any "
+"class of persons or organizations, goods or technology from the operation"
+" of any or all of the provisions of this Act;"
+msgstr ""
+
+#: ../../source/eipa.rst:3429 ../../source/eipa.rst:3506
+msgid ""
+"(e.1) specifying activities or classes of activities that do not "
+"constitute brokering for the purposes this Act; and"
+msgstr ""
+
+#: ../../source/eipa.rst:3432
+msgid "(f) generally, for carrying out the purposes and provisions of this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3437
+msgid "R.S., 1985, c. E-19, s. 12"
+msgstr ""
+
+#: ../../source/eipa.rst:3438
+msgid "1988, c. 65, s. 123"
+msgstr ""
+
+#: ../../source/eipa.rst:3439
+msgid "1993, c. 44, s. 154"
+msgstr ""
+
+#: ../../source/eipa.rst:3440
+msgid "1994, c. 47, s. 112"
+msgstr ""
+
+#: ../../source/eipa.rst:3441
+msgid "1999, c. 31, s. 90"
+msgstr ""
+
+#: ../../source/eipa.rst:3442
+msgid "2004, c. 15, s. 58"
+msgstr ""
+
+#: ../../source/eipa.rst:3443
+msgid "2006, c. 13, s. 115"
+msgstr ""
+
+#: ../../source/eipa.rst:3444
+msgid "`2018, c. 26, s. 12 <#1039032-1201255>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3448
+msgid "1039032-1201255"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 12"
+msgstr ""
+
+#: ../../source/eipa.rst:3456
+msgid "Marginal note:2006, c. 13, s. 115"
+msgstr ""
+
+#: ../../source/eipa.rst:3458
+msgid "**12** (1) Paragraph 12(b) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3490
+msgid "Marginal note:2004, c. 15, s. 58"
+msgstr ""
+
+#: ../../source/eipa.rst:3492
+msgid "(2) Paragraph 12(e) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3511
+msgid "`2020, c. 1, s. 46 <#1237638-1253596>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3515
+msgid "1237638-1253596"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 46"
+msgstr ""
+
+#: ../../source/eipa.rst:3523
+msgid ""
+"**46** Section 12 of the Act is amended by adding the following after "
+"paragraph (c):"
+msgstr ""
+
+#: ../../source/eipa.rst:3535
+msgid "`Previous Version <section-12-20190901.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Prohibitions"
+msgstr ""
+
+#: ../../source/eipa.rst:3541
+msgid "Marginal note:Export or attempt to export"
+msgstr ""
+
+#: ../../source/eipa.rst:3543
+msgid ""
+"**13** No person shall export or transfer, or attempt to export or "
+"transfer, any goods or technology included in an Export Control List or "
+"any goods or technology to any country included in an Area Control List "
+"except under the authority of and in accordance with an export permit "
+"issued under this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3551
+msgid "R.S., 1985, c. E-19, s. 13"
+msgstr ""
+
+#: ../../source/eipa.rst:3552
+msgid "2004, c. 15, s. 59"
+msgstr ""
+
+#: ../../source/eipa.rst:3556
+msgid "`Previous Version <section-13-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3558
+msgid "Marginal note:Import or attempt to import"
+msgstr ""
+
+#: ../../source/eipa.rst:3560
+msgid ""
+"**14** No person shall import or attempt to import any goods included in "
+"an Import Control List except under the authority of and in accordance "
+"with an import permit issued under this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3567
+msgid "R.S., c. E-17, s. 14"
+msgstr ""
+
+#: ../../source/eipa.rst:3569 ../../source/eipa.rst:3588
+#: ../../source/eipa.rst:3693
+msgid "Marginal note:Exception"
+msgstr ""
+
+#: ../../source/eipa.rst:3571
+msgid ""
+"**14.1** A person does not contravene section 13 or 14 if, at the time of"
+" exportation or importation, the person would have exported or imported "
+"the goods under the authority of and in accordance with an export permit "
+"or an import permit issued under this Act had they applied for it, and "
+"if, after the exportation or importation, the permit is issued."
+msgstr ""
+
+#: ../../source/eipa.rst:3580
+msgid "2006, c. 13, s. 116"
+msgstr ""
+
+#: ../../source/eipa.rst:3582 ../../source/eipa.rst:3685
+msgid "Marginal note:Broker or attempt to broker"
+msgstr ""
+
+#: ../../source/eipa.rst:3584 ../../source/eipa.rst:3687
+msgid ""
+"**14.2** (1) No person or organization shall broker, or attempt to "
+"broker, except under the authority of and in accordance with a brokering "
+"permit issued under this Act."
+msgstr ""
+
+#: ../../source/eipa.rst:3590 ../../source/eipa.rst:3695
+msgid ""
+"(2) A person or organization does not contravene subsection (1) if, at "
+"the time of the alleged contravention, they would have brokered under the"
+" authority of and in accordance with a brokering permit issued under this"
+" Act had they applied for it, and if, after the alleged contravention, "
+"the permit is issued."
+msgstr ""
+
+#: ../../source/eipa.rst:3597 ../../source/eipa.rst:3704
+msgid "Marginal note:Act or omission outside Canada"
+msgstr ""
+
+#: ../../source/eipa.rst:3599 ../../source/eipa.rst:3707
+msgid ""
+"(3) Every person or organization that commits an act or omission outside "
+"Canada that, if committed in Canada, would constitute a contravention of "
+"subsection (1) — or a conspiracy to commit, an attempt to commit, being "
+"an accessory after the fact in relation to, or any counselling in "
+"relation to, such a contravention — is deemed to have committed that act "
+"or omission in Canada if they are"
+msgstr ""
+
+#: ../../source/eipa.rst:3607 ../../source/eipa.rst:3719
+msgid "(a) a Canadian citizen;"
+msgstr ""
+
+#: ../../source/eipa.rst:3609
+msgid ""
+"(b) a permanent resident as defined in subsection 2(1) of the "
+"`Immigration and Refugee Protection Act </eng/acts/I-2.5>`__ who, after "
+"the commission of the act or omission, is present in Canada; or"
+msgstr ""
+
+#: ../../source/eipa.rst:3614 ../../source/eipa.rst:3727
+msgid ""
+"(c) an organization that is incorporated, formed or otherwise organized "
+"under the laws of Canada or a province."
+msgstr ""
+
+#: ../../source/eipa.rst:3618 ../../source/eipa.rst:3732
+msgid "Marginal note:Jurisdiction"
+msgstr ""
+
+#: ../../source/eipa.rst:3620 ../../source/eipa.rst:3734
+msgid ""
+"(4) If a person or organization is alleged to have committed an act or "
+"omission that is deemed to have been committed in Canada under subsection"
+" (3), proceedings for an offence in respect of that act or omission may, "
+"whether or not they are in Canada, be commenced in any territorial "
+"division in Canada. The person or organization may be tried and punished "
+"for that offence as if the offence had been committed in that territorial"
+" division."
+msgstr ""
+
+#: ../../source/eipa.rst:3629 ../../source/eipa.rst:3746
+msgid "Marginal note:Appearance at trial"
+msgstr ""
+
+#: ../../source/eipa.rst:3631
+msgid ""
+"(5) For greater certainty, the provisions of the `Criminal Code "
+"</eng/acts/C-46>`__ relating to the requirements that a person or "
+"organization appear at and be present during proceedings and the "
+"exceptions to those requirements apply to proceedings commenced in any "
+"territorial division under subsection (4)."
+msgstr ""
+
+#: ../../source/eipa.rst:3638 ../../source/eipa.rst:3757
+msgid "Marginal note:Previously tried outside Canada"
+msgstr ""
+
+#: ../../source/eipa.rst:3640 ../../source/eipa.rst:3760
+msgid ""
+"(6) If a person or organization is alleged to have committed an act or "
+"omission that is deemed to have been committed in Canada under subsection"
+" (3) and they have been tried and dealt with outside Canada for an "
+"offence in respect of the act or omission so that, if they had been tried"
+" and dealt with in Canada, they would be able to plead autrefois acquit, "
+"autrefois convict or pardon, they are deemed to have been so tried and "
+"dealt with in Canada."
+msgstr ""
+
+#: ../../source/eipa.rst:3649 ../../source/eipa.rst:3772
+msgid "Marginal note:Exception for foreign trials in absentia"
+msgstr ""
+
+#: ../../source/eipa.rst:3651 ../../source/eipa.rst:3775
+msgid ""
+"(7) Despite subsection (6), a person or organization may not plead "
+"autrefois convict to a count that charges an offence in respect of the "
+"act or omission if"
+msgstr ""
+
+#: ../../source/eipa.rst:3655 ../../source/eipa.rst:3780
+msgid ""
+"(a) the person or organization was not present and was not represented by"
+" counsel acting under the person or organization’s instructions at the "
+"trial outside Canada; and"
+msgstr ""
+
+#: ../../source/eipa.rst:3660 ../../source/eipa.rst:3786
+msgid ""
+"(b) the person or organization was not punished in accordance with the "
+"sentence imposed on conviction in respect of the act or omission."
+msgstr ""
+
+#: ../../source/eipa.rst:3666
+msgid "`2018, c. 26, s. 13 <#1039041-1201282>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3670
+msgid "1039041-1201282"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 13"
+msgstr ""
+
+#: ../../source/eipa.rst:3678
+msgid "**13** The Act is amended by adding the following after section 14.1:"
+msgstr ""
+
+#: ../../source/eipa.rst:3721
+msgid ""
+"(b) a permanent resident as defined in subsection 2(1) of the Immigration"
+" and Refugee Protection Act who, after the commission of the act or "
+"omission, is present in Canada; or"
+msgstr ""
+
+#: ../../source/eipa.rst:3748
+msgid ""
+"(5) For greater certainty, the provisions of the Criminal Code relating "
+"to the requirements that a person or organization appear at and be "
+"present during proceedings and the exceptions to those requirements apply"
+" to proceedings commenced in any territorial division under subsection "
+"(4)."
+msgstr ""
+
+#: ../../source/eipa.rst:3791
+msgid "Marginal note:Diversion, etc."
+msgstr ""
+
+#: ../../source/eipa.rst:3793
+msgid ""
+"**15** (1) Subject to subsection (2), and except with the authority in "
+"writing of the Minister, no person shall knowingly do anything in Canada "
+"that causes or assists or is intended to cause or assist any shipment, "
+"transhipment, diversion or transfer of any goods or technology included "
+"in an Export Control List to be made, from Canada or any other place, to "
+"any country included in an Area Control List."
+msgstr ""
+
+#: ../../source/eipa.rst:3801
+msgid "Marginal note:Diversion, etc., of automatic firearms"
+msgstr ""
+
+#: ../../source/eipa.rst:3803
+msgid ""
+"(2) No person shall knowingly do anything in Canada that causes or "
+"assists or is intended to cause or assist any shipment, transhipment or "
+"diversion of any thing referred to in any of paragraphs 4.1(a) to (c), or"
+" any component or part designed exclusively for assembly into such a "
+"thing, that is included in an Export Control List, from Canada or any "
+"other place, to any country that is not included in an Automatic Firearms"
+" Country Control List."
+msgstr ""
+
+#: ../../source/eipa.rst:3814
+msgid "R.S., 1985, c. E-19, s. 15"
+msgstr ""
+
+#: ../../source/eipa.rst:3815
+msgid "1991, c. 28, s. 4"
+msgstr ""
+
+#: ../../source/eipa.rst:3816
+msgid "1995, c. 39, s. 173"
+msgstr ""
+
+#: ../../source/eipa.rst:3817
+msgid "2004, c. 15, s. 60"
+msgstr ""
+
+#: ../../source/eipa.rst:3821
+msgid "`Previous Version <section-15-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3823 ../../source/eipa.rst:3856
+msgid "Marginal note:No transfer or unauthorized use of permits"
+msgstr ""
+
+#: ../../source/eipa.rst:3825 ../../source/eipa.rst:3859
+msgid ""
+"**16** No person or organization that is authorized under a permit issued"
+" under this Act to export or transfer goods or technology, to import "
+"goods or to broker shall transfer the permit to, or allow it to be used "
+"by, a person or organization that is not so authorized."
+msgstr ""
+
+#: ../../source/eipa.rst:3833
+msgid "R.S., 1985, c. E-19, s. 16"
+msgstr ""
+
+#: ../../source/eipa.rst:3834
+msgid "2004, c. 15, s. 61"
+msgstr ""
+
+#: ../../source/eipa.rst:3835
+msgid "`2018, c. 26, s. 14 <#1039043-1201283>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3839
+msgid "1039043-1201283"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 14"
+msgstr ""
+
+#: ../../source/eipa.rst:3847
+msgid "Marginal note:2004, c. 15, s. 61"
+msgstr ""
+
+#: ../../source/eipa.rst:3849
+msgid "**14** Section 16 of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3869
+msgid "`Previous Version <section-16-20070331.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3871
+msgid "Marginal note:Transfers or unauthorized use"
+msgstr ""
+
+#: ../../source/eipa.rst:3873
+msgid ""
+"**16.1** No person who has been issued an import allocation or an export "
+"allocation shall, without the consent of the Minister, transfer it or "
+"allow it to be used by another person."
+msgstr ""
+
+#: ../../source/eipa.rst:3879
+msgid "1994, c. 47, s. 113"
+msgstr ""
+
+#: ../../source/eipa.rst:3880
+msgid "2006, c. 13, s. 117"
+msgstr ""
+
+#: ../../source/eipa.rst:3884
+msgid "`Previous Version <section-16.1-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3886 ../../source/eipa.rst:3927
+#: ../../source/eipa.rst:3986
+msgid "Marginal note:False or misleading information, and misrepresentation"
+msgstr ""
+
+#: ../../source/eipa.rst:3889 ../../source/eipa.rst:3930
+#: ../../source/eipa.rst:3989
+msgid ""
+"**17** No person or organization shall knowingly furnish any false or "
+"misleading information or knowingly make any misrepresentation in any "
+"application for a permit, import allocation, export allocation, "
+"certificate or other authorization under this Act or for the purpose of "
+"procuring its issue or grant or in connection with any subsequent use of "
+"the permit, import allocation, export allocation, certificate or other "
+"authorization or the exportation, importation, brokering, transfer or "
+"disposition of goods or technology to which it relates."
+msgstr ""
+
+#: ../../source/eipa.rst:3902
+msgid "R.S., 1985, c. E-19, s. 17"
+msgstr ""
+
+#: ../../source/eipa.rst:3903
+msgid "1994, c. 47, s. 114"
+msgstr ""
+
+#: ../../source/eipa.rst:3904
+msgid "2004, c. 15, s. 62"
+msgstr ""
+
+#: ../../source/eipa.rst:3905
+msgid "2006, c. 13, ss. 117, 125"
+msgstr ""
+
+#: ../../source/eipa.rst:3906
+msgid "`2018, c. 26, s. 15 <#1039047-1201288>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3910
+msgid "1039047-1201288"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 15"
+msgstr ""
+
+#: ../../source/eipa.rst:3918 ../../source/eipa.rst:3977
+msgid "Marginal note:2006, c. 13, ss. 117 and 125"
+msgstr ""
+
+#: ../../source/eipa.rst:3920 ../../source/eipa.rst:3979
+msgid "**15** Sections 17 and 18 of the Act are replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:3945 ../../source/eipa.rst:3956
+#: ../../source/eipa.rst:4004
+msgid "Marginal note:Aiding and abetting"
+msgstr ""
+
+#: ../../source/eipa.rst:3947 ../../source/eipa.rst:3958
+#: ../../source/eipa.rst:4006
+msgid ""
+"**18** No person or organization shall knowingly induce, aid or abet any "
+"person or organization to contravene any of the provisions of this Act or"
+" of the regulations."
+msgstr ""
+
+#: ../../source/eipa.rst:3954
+msgid "`Previous Version <section-17-20070331.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3964
+msgid "R.S., 1985, c. E-19, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:3965
+msgid "`2018, c. 26, s. 15 <#1039047-1201293>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:3969
+msgid "1039047-1201293"
+msgstr ""
+
+#: ../../source/eipa.rst:4013
+msgid "`Previous Version <section-18-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Offence and Punishment"
+msgstr ""
+
+#: ../../source/eipa.rst:4019 ../../source/eipa.rst:4090
+msgid "Marginal note:Offence and penalty"
+msgstr ""
+
+#: ../../source/eipa.rst:4021 ../../source/eipa.rst:4092
+msgid ""
+"**19** (1) Every person or organization that contravenes any provision of"
+" this Act or of the regulations is guilty of"
+msgstr ""
+
+#: ../../source/eipa.rst:4024 ../../source/eipa.rst:4096
+msgid ""
+"(a) an offence punishable on summary conviction and liable to a fine not "
+"exceeding $250,000 or to imprisonment for a term not exceeding 12 months,"
+" or to both; or"
+msgstr ""
+
+#: ../../source/eipa.rst:4029
+msgid ""
+"(b) an indictable offence and liable to a fine in an amount that is in "
+"the discretion of the court or to imprisonment for a term not exceeding "
+"ten years, or to both."
+msgstr ""
+
+#: ../../source/eipa.rst:4034
+msgid "Marginal note:Limitation period"
+msgstr ""
+
+#: ../../source/eipa.rst:4036
+msgid ""
+"(2) A prosecution under paragraph (1)(a) may be instituted at any time "
+"within but not later than three years after the time when the subject-"
+"matter of the complaint arose."
+msgstr ""
+
+#: ../../source/eipa.rst:4040 ../../source/eipa.rst:4111
+msgid "Marginal note:Consent of Attorney General"
+msgstr ""
+
+#: ../../source/eipa.rst:4042 ../../source/eipa.rst:4114
+msgid ""
+"(2.1) No proceedings for an offence in respect of the contravention of "
+"subsection 14.2(1) that is deemed to have been committed in Canada under "
+"subsection 14.2(3) may be commenced without the consent of the Attorney "
+"General of Canada."
+msgstr ""
+
+#: ../../source/eipa.rst:4048 ../../source/eipa.rst:4122
+msgid "Marginal note:Factors to be considered when imposing sentence"
+msgstr ""
+
+#: ../../source/eipa.rst:4051
+msgid ""
+"(3) If an offender is convicted or discharged under section 730 of the "
+"`Criminal Code </eng/acts/C-46>`__ in respect of an offence under this "
+"Act, the court imposing a sentence on or discharging the offender shall, "
+"in addition to considering any other relevant factors, consider the "
+"nature and value of the exported or transferred goods or technology, or "
+"the imported goods, that are the subject-matter of the offence or, in the"
+" case of a contravention of subsection 14.2(1), the goods or technology "
+"to which the offence relates."
+msgstr ""
+
+#: ../../source/eipa.rst:4064
+msgid "R.S., 1985, c. E-19, s. 19"
+msgstr ""
+
+#: ../../source/eipa.rst:4065
+msgid "1991, c. 28, s. 5"
+msgstr ""
+
+#: ../../source/eipa.rst:4066
+msgid "1995, c. 22, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:4067
+msgid "2004, c. 15, s. 63"
+msgstr ""
+
+#: ../../source/eipa.rst:4068
+msgid "`2018, c. 26, s. 16 <#1039060-1201300>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4072
+msgid "1039060-1201300"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 16"
+msgstr ""
+
+#: ../../source/eipa.rst:4080
+msgid "Marginal note:1991, c. 28, s. 5(1)"
+msgstr ""
+
+#: ../../source/eipa.rst:4082
+msgid ""
+"**16** (1) The portion of subsection 19(1) of the Act before paragraph "
+"(b) is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4102
+msgid "Marginal note:2004, c. 15, s. 63"
+msgstr ""
+
+#: ../../source/eipa.rst:4104
+msgid "(2) Subsection 19(3) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4125
+msgid ""
+"(3) If an offender is convicted or discharged under section 730 of the "
+"Criminal Code in respect of an offence under this Act, the court imposing"
+" a sentence on or discharging the offender shall, in addition to "
+"considering any other relevant factors, consider the nature and value of "
+"the exported or transferred goods or technology, or the imported goods, "
+"that are the subject-matter of the offence or, in the case of a "
+"contravention of subsection 14.2(1), the goods or technology to which the"
+" offence relates."
+msgstr ""
+
+#: ../../source/eipa.rst:4143
+msgid "`Previous Version <section-19-20070331.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4145 ../../source/eipa.rst:4177
+#: ../../source/eipa.rst:4252
+msgid "Marginal note:Officers, etc., of organization"
+msgstr ""
+
+#: ../../source/eipa.rst:4147 ../../source/eipa.rst:4179
+#: ../../source/eipa.rst:4254
+msgid ""
+"**20** If an organization commits an offence under this Act, any officer "
+"or director of the organization that directed, authorized, assented to, "
+"acquiesced in or participated in the commission of the offence is a party"
+" to and guilty of the offence and is liable on conviction to the "
+"punishment provided for the offence whether or not the organization has "
+"been prosecuted or convicted."
+msgstr ""
+
+#: ../../source/eipa.rst:4157
+msgid "R.S., 1985, c. E-19, s. 20"
+msgstr ""
+
+#: ../../source/eipa.rst:4158
+msgid "`2018, c. 26, s. 17 <#1039069-1201305>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4162
+msgid "1039069-1201305"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 17"
+msgstr ""
+
+#: ../../source/eipa.rst:4170 ../../source/eipa.rst:4245
+msgid "**17** Sections 20 and 21 of the Act are replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4189 ../../source/eipa.rst:4214
+#: ../../source/eipa.rst:4264
+msgid "Marginal note:Applicant for permit for non-resident"
+msgstr ""
+
+#: ../../source/eipa.rst:4192 ../../source/eipa.rst:4216
+#: ../../source/eipa.rst:4267
+msgid ""
+"**21** If a permit, other than a brokering permit, is issued under this "
+"Act to a person who has applied for it for, on behalf of, or for the use "
+"of, another person who is not a resident of Canada and that other person "
+"commits an offence under this Act, the person who applied for the permit "
+"is, whether or not the non-resident has been prosecuted or convicted, "
+"guilty of the like offence and liable, on conviction, to the punishment "
+"provided for the offence, on proof that the act or omission constituting "
+"the offence took place with the knowledge or consent of the person who "
+"applied for the permit or that the person who applied for the permit "
+"failed to exercise due diligence to prevent the commission of the "
+"offence."
+msgstr ""
+
+#: ../../source/eipa.rst:4212
+msgid "`Previous Version <section-20-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4232
+msgid "R.S., 1985, c. E-19, s. 21"
+msgstr ""
+
+#: ../../source/eipa.rst:4233
+msgid "`2018, c. 26, s. 17 <#1039069-1201310>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4237
+msgid "1039069-1201310"
+msgstr ""
+
+#: ../../source/eipa.rst:4287
+msgid "`Previous Version <section-21-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4289 ../../source/eipa.rst:4339
+msgid "Marginal note:Venue"
+msgstr ""
+
+#: ../../source/eipa.rst:4291 ../../source/eipa.rst:4341
+msgid ""
+"**22** (1) Any proceeding in respect of an offence under this Act may be "
+"instituted, tried or determined at the place in Canada where the offence "
+"was committed or at the place in Canada in which the accused is, resides "
+"or has an office or place of business at the time of institution of the "
+"proceedings."
+msgstr ""
+
+#: ../../source/eipa.rst:4298
+msgid "Marginal note:Proceedings respecting more than one offence"
+msgstr ""
+
+#: ../../source/eipa.rst:4300
+msgid "(2) In any proceedings in respect of offences under this Act,"
+msgstr ""
+
+#: ../../source/eipa.rst:4303 ../../source/eipa.rst:4357
+msgid ""
+"(a) an information may include more than one offence committed by the "
+"same person or organization;"
+msgstr ""
+
+#: ../../source/eipa.rst:4306
+msgid ""
+"(b) all the offences included in the information may be tried "
+"concurrently;"
+msgstr ""
+
+#: ../../source/eipa.rst:4309
+msgid "(c) one conviction for any or all offences so included may be made; and"
+msgstr ""
+
+#: ../../source/eipa.rst:4312
+msgid ""
+"(d) no information, warrant, summons, conviction or other proceedings for"
+" those offences shall be deemed objectionable on the ground that it "
+"relates to two or more offences."
+msgstr ""
+
+#: ../../source/eipa.rst:4319
+msgid "R.S., 1985, c. E-19, s. 22"
+msgstr ""
+
+#: ../../source/eipa.rst:4320
+msgid "`2018, c. 26, s. 18 <#1039076-1201315>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4324
+msgid "1039076-1201315"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:4332
+msgid ""
+"**18** (1) Subsection 22(1) of the English version of the Act is replaced"
+" by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4350
+msgid "(2) Paragraph 22(2)(a) of the Act is replaced by the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4363
+msgid "`Previous Version <section-22-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4365
+msgid "Marginal note:Evidence"
+msgstr ""
+
+#: ../../source/eipa.rst:4367
+msgid ""
+"**23** (1) The original or a copy of a bill of lading, customs form, "
+"commercial invoice or other document, in this section called a shipping "
+"document, is admissible in evidence in any prosecution under this Act in "
+"respect of goods or technology if it appears from the shipping document "
+"that"
+msgstr ""
+
+#: ../../source/eipa.rst:4374
+msgid ""
+"(a) the goods or technology was sent, shipped or transferred from Canada "
+"or the goods came into Canada;"
+msgstr ""
+
+#: ../../source/eipa.rst:4377
+msgid ""
+"(b) a person, as shipper, consignor or consignee, sent, shipped or "
+"transferred the goods or technology from Canada or brought the goods into"
+" Canada; or"
+msgstr ""
+
+#: ../../source/eipa.rst:4381
+msgid ""
+"(c) the goods or technology was sent, shipped or transferred to a "
+"destination or person other than as authorized in the export permit "
+"relating to the goods or technology or the import permit relating to the "
+"goods."
+msgstr ""
+
+#: ../../source/eipa.rst:4386 ../../source/eipa.rst:4424
+#: ../../source/eipa.rst:4480
+msgid "Marginal note:Proof of the facts"
+msgstr ""
+
+#: ../../source/eipa.rst:4388
+msgid ""
+"(2) In the absence of evidence to the contrary, a shipping document that "
+"is admissible in evidence under subsection (1) is proof of any of the "
+"facts set out in paragraph (1)(a), (b) or (c) that appear from the "
+"shipping document."
+msgstr ""
+
+#: ../../source/eipa.rst:4395
+msgid "R.S., 1985, c. E-19, s. 23"
+msgstr ""
+
+#: ../../source/eipa.rst:4396
+msgid "2004, c. 15, s. 64"
+msgstr ""
+
+#: ../../source/eipa.rst:4400
+msgid "`Previous Version <section-23-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4402 ../../source/eipa.rst:4452
+msgid "Marginal note:Evidence — Brokering Control List"
+msgstr ""
+
+#: ../../source/eipa.rst:4404 ../../source/eipa.rst:4455
+msgid ""
+"**23.1** (1) The original or a copy of a bill of lading, customs form, "
+"commercial invoice or other document is admissible in evidence in any "
+"prosecution under this Act in respect of any goods or technology included"
+" in a Brokering Control List if it appears from the document that"
+msgstr ""
+
+#: ../../source/eipa.rst:4410 ../../source/eipa.rst:4463
+msgid ""
+"(a) the goods or technology was sent or shipped from a foreign country or"
+" the goods or technology was destined for a foreign country;"
+msgstr ""
+
+#: ../../source/eipa.rst:4414 ../../source/eipa.rst:4468
+msgid ""
+"(b) a person or organization, as shipper, consignor or consignee, sent or"
+" shipped the goods or technology from a foreign country or brought the "
+"goods or technology into foreign country; or"
+msgstr ""
+
+#: ../../source/eipa.rst:4419 ../../source/eipa.rst:4474
+msgid ""
+"(c) the goods or technology were sent or shipped to a destination or to a"
+" person or organization other than as authorized in the brokering permit "
+"relating to the goods or technology."
+msgstr ""
+
+#: ../../source/eipa.rst:4426 ../../source/eipa.rst:4482
+msgid ""
+"(2) In the absence of evidence to the contrary, a document that is "
+"admissible in evidence under subsection (1) is proof of any of the facts "
+"set out in paragraph (1)(a), (b) or (c) that appear from the document."
+msgstr ""
+
+#: ../../source/eipa.rst:4433
+msgid "`2018, c. 26, s. 19 <#1039081-1201325>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4437
+msgid "1039081-1201325"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 19"
+msgstr ""
+
+#: ../../source/eipa.rst:4445
+msgid "**19** The Act is amended by adding the following after section 23:"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "General"
+msgstr ""
+
+#: ../../source/eipa.rst:4493
+msgid "Marginal note:Customs officers’ duties"
+msgstr ""
+
+#: ../../source/eipa.rst:4495
+msgid ""
+"**24** All officers, as defined in the `Customs Act "
+"</eng/acts/C-52.6>`__, before permitting the export or transfer of any "
+"goods or technology or the import of any goods, shall satisfy themselves "
+"that the exporter, importer or transferor, as the case may be, has not "
+"contravened any of the provisions of this Act or the regulations and that"
+" all requirements of this Act and the regulations with reference to the "
+"goods or technology have been complied with."
+msgstr ""
+
+#: ../../source/eipa.rst:4506
+msgid "R.S., 1985, c. E-19, s. 24"
+msgstr ""
+
+#: ../../source/eipa.rst:4507 ../../source/eipa.rst:4533
+msgid "R.S., 1985, c. 1 (2nd Supp.), s. 213"
+msgstr ""
+
+#: ../../source/eipa.rst:4508 ../../source/eipa.rst:4534
+msgid "2004, c. 15, s. 65"
+msgstr ""
+
+#: ../../source/eipa.rst:4512
+msgid "`Previous Version <section-24-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4514
+msgid ""
+"Marginal note:Application of powers under the `Customs Act "
+"</eng/acts/C-52.6>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4517
+msgid ""
+"**25** All officers, as defined in the `Customs Act "
+"</eng/acts/C-52.6>`__, have, with respect to any goods or technology to "
+"which this Act applies, all the powers they have under the `Customs Act "
+"</eng/acts/C-52.6>`__ with respect to the importation and exportation of "
+"goods, and all the provisions of that Act and the regulations under it "
+"respecting search, detention, seizure, forfeiture and condemnation apply,"
+" with such modifications as the circumstances require, to any goods or "
+"technology that is tendered for export, transfer or import or is "
+"exported, transferred or imported or otherwise dealt with contrary to "
+"this Act and the regulations and to all documents relating to the goods "
+"or technology."
+msgstr ""
+
+#: ../../source/eipa.rst:4532
+msgid "R.S., 1985, c. E-19, s. 25"
+msgstr ""
+
+#: ../../source/eipa.rst:4538
+msgid "`Previous Version <section-25-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4540
+msgid "**26** [Repealed, 2018, c. 26, s. 20]"
+msgstr ""
+
+#: ../../source/eipa.rst:4544
+msgid "`Previous Version <section-26-20130626.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "Reports to Parliament"
+msgstr ""
+
+#: ../../source/eipa.rst:4550 ../../source/eipa.rst:4586
+msgid "Marginal note:Annual reports"
+msgstr ""
+
+#: ../../source/eipa.rst:4552 ../../source/eipa.rst:4588
+msgid ""
+"**27** No later than May 31 of each year, the Minister shall prepare and "
+"cause to be laid before each House of Parliament a report of the "
+"operations under this Act for the preceding year and a report in respect "
+"of arms, ammunition, implements and munitions of war, that were exported "
+"in the preceding year under the authority of and in accordance with an "
+"export permit issued under subsection 7(1)."
+msgstr ""
+
+#: ../../source/eipa.rst:4562
+msgid "R.S., 1985, c. E-19, s. 27"
+msgstr ""
+
+#: ../../source/eipa.rst:4563
+msgid "`2018, c. 26, s. 21 <#1039083-1201331>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4567
+msgid "1039083-1201331"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2018, c. 26, s. 21"
+msgstr ""
+
+#: ../../source/eipa.rst:4575
+msgid ""
+"**21** Section 27 of the Act and the heading before it are replaced by "
+"the following:"
+msgstr ""
+
+#: ../../source/eipa.rst:4601
+msgid "`Previous Version <section-27-20021231.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "SCHEDULE 1(Subsection 5(3.4))Countries"
+msgstr ""
+
+#: ../../source/eipa.rst:4643
+msgid "2012, c. 26, s. 54"
+msgstr ""
+
+#: ../../source/eipa.rst:4644
+msgid "2017, c. 6, s. 23"
+msgstr ""
+
+#: ../../source/eipa.rst:4648
+msgid "`Previous Version <section-sched203421-20130401.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "SCHEDULE 2(Subsection 5.2(1))"
+msgstr ""
+
+#: ../../source/eipa.rst:4658
+msgid ""
+"Intergovernmental Arrangements — Collection of Information Relating to "
+"Quotas"
+msgstr ""
+
+#: ../../source/eipa.rst:4662 ../../source/eipa.rst:4770
+#: ../../source/eipa.rst:4868
+msgid "Column 1"
+msgstr ""
+
+#: ../../source/eipa.rst:4662 ../../source/eipa.rst:4770
+#: ../../source/eipa.rst:4868
+msgid "Column 2"
+msgstr ""
+
+#: ../../source/eipa.rst:4664 ../../source/eipa.rst:4772
+msgid "Intergovernmental Arrangement"
+msgstr ""
+
+#: ../../source/eipa.rst:4664 ../../source/eipa.rst:4772
+#: ../../source/eipa.rst:4870
+msgid "Provisions"
+msgstr ""
+
+#: ../../source/eipa.rst:4666
+msgid "Schedules to Annex C-02.2, in accordance with Appendix 5.1 of Annex C-00-B"
+msgstr ""
+
+#: ../../source/eipa.rst:4670
+msgid ""
+"Schedule to Annex III.3.1, in accordance with Appendix III.1.6.1 of Annex"
+" III.1"
+msgstr ""
+
+#: ../../source/eipa.rst:4674
+msgid ""
+"Schedules to Annex 2-A, in accordance with Annex 5-A to Annex 5 of the "
+"Protocol on Rules of Origin and Origin Procedures"
+msgstr ""
+
+#: ../../source/eipa.rst:4679
+msgid "Schedules to Annex 3.4.1, in accordance with Annex 3.1"
+msgstr ""
+
+#: ../../source/eipa.rst:4682
+msgid ""
+"Schedules to Annex 2-A, in accordance with Annex 5-A to Annex 5 of the "
+"Protocol on Rules of Origin and Origin Procedures of CETA, as "
+"incorporated by reference in CUKTCA"
+msgstr ""
+
+#: ../../source/eipa.rst:4689
+msgid "Schedules to Annex 2-B in accordance with Annex 6-A"
+msgstr ""
+
+#: ../../source/eipa.rst:4695 ../../source/eipa.rst:4795
+#: ../../source/eipa.rst:4919
+msgid "2017, c. 6, s. 24"
+msgstr ""
+
+#: ../../source/eipa.rst:4696
+msgid "`2020, c. 1, s. 47 <#1237640-1253598>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4700
+msgid "1237640-1253598"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 47"
+msgstr ""
+
+#: ../../source/eipa.rst:4708
+msgid ""
+"**47** Schedule 2 to the Act is amended by striking out, in column 1, the"
+" reference to “NAFTA” and the corresponding reference in column 2 to "
+"“Schedules to Annex 302.2, in accordance with Appendix 6 of Annex 300-B”."
+msgstr ""
+
+#: ../../source/eipa.rst:4714
+msgid "`2020, c. 1, s. 48 <#1237641-1253600>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4718
+msgid "1237641-1253600"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 48"
+msgstr ""
+
+#: ../../source/eipa.rst:4726
+msgid ""
+"**48** Schedule 2 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUSMA” in column 1 and a corresponding reference in "
+"column 2 to “Schedules to Annex 2-B in accordance with Annex 6-A”."
+msgstr ""
+
+#: ../../source/eipa.rst:4732
+msgid "`2021, c. 1, s. 17 <#1288318-1291234>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4736
+msgid "1288318-1291234"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2021, c. 1, s. 17"
+msgstr ""
+
+#: ../../source/eipa.rst:4744
+msgid ""
+"**17** Schedule 2 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUKTCA” in column 1 and a corresponding reference to "
+"“Schedules to Annex 2-A, in accordance with Annex 5-A to Annex 5 of the "
+"Protocol on Rules of Origin and Origin Procedures of CETA, as "
+"incorporated by reference in CUKTCA” in column 2."
+msgstr ""
+
+#: ../../source/eipa.rst:4755
+msgid "`Previous Version <section-sched203428-20200701.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "SCHEDULE 3(Subsection 5.2(2))"
+msgstr ""
+
+#: ../../source/eipa.rst:4765
+msgid ""
+"Intergovernmental Arrangements — Collection of Information Relating to "
+"Imports of Textile and Apparel Goods"
+msgstr ""
+
+#: ../../source/eipa.rst:4774
+msgid "Appendix 1.1 of Annex C-00-B"
+msgstr ""
+
+#: ../../source/eipa.rst:4776
+msgid "Appendix III.1.1.1 of Annex III.1"
+msgstr ""
+
+#: ../../source/eipa.rst:4778
+msgid ""
+"Tables C.3 and C.4 of Annex 5-A to Annex 5 of the Protocol on Rules of "
+"Origin and Origin Procedures"
+msgstr ""
+
+#: ../../source/eipa.rst:4782
+msgid "Section 1 of Annex 3.1"
+msgstr ""
+
+#: ../../source/eipa.rst:4784
+msgid ""
+"Tables C.3 and C.4 of Annex 5-A to Annex 5 of the Protocol on Rules of "
+"Origin and Origin Procedures of CETA, as incorporated by reference in "
+"CUKTCA"
+msgstr ""
+
+#: ../../source/eipa.rst:4790
+msgid "Section C of Annex 6-A"
+msgstr ""
+
+#: ../../source/eipa.rst:4796
+msgid "`2020, c. 1, s. 49 <#1237642-1253602>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4800
+msgid "1237642-1253602"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 49"
+msgstr ""
+
+#: ../../source/eipa.rst:4808
+msgid ""
+"**49** Schedule 3 to the Act is amended by striking out, in column 1, the"
+" reference to “NAFTA” and the corresponding reference in column 2 to "
+"“Appendix 1.1 of Annex 300-B”."
+msgstr ""
+
+#: ../../source/eipa.rst:4813
+msgid "`2020, c. 1, s. 50 <#1237643-1253604>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4817
+msgid "1237643-1253604"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 50"
+msgstr ""
+
+#: ../../source/eipa.rst:4825
+msgid ""
+"**50** Schedule 3 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUSMA” in column 1 and a corresponding reference in "
+"column 2 to “Section C of Annex 6-A”."
+msgstr ""
+
+#: ../../source/eipa.rst:4831
+msgid "`2021, c. 1, s. 18 <#1288319-1291236>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4835
+msgid "1288319-1291236"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2021, c. 1, s. 18"
+msgstr ""
+
+#: ../../source/eipa.rst:4843
+msgid ""
+"**18** Schedule 3 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUKTCA” in column 1 and a corresponding reference to "
+"“Tables C.3 and C.4 of Annex 5-A to Annex 5 of the Protocol on Rules of "
+"Origin and Origin Procedures of CETA, as incorporated by reference in "
+"CUKTCA” in column 2."
+msgstr ""
+
+#: ../../source/eipa.rst:4854
+msgid "`Previous Version <section-sched203438-20200701.html>`__"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "SCHEDULE 4(Section 9.1)"
+msgstr ""
+
+#: ../../source/eipa.rst:4864
+msgid ""
+"Intergovernmental Arrangements — Issuance of Certificates for the Export "
+"of Goods Subject to Foreign Import Quotas"
+msgstr ""
+
+#: ../../source/eipa.rst:4868
+msgid "Column 3"
+msgstr ""
+
+#: ../../source/eipa.rst:4870
+msgid "Country or Territory"
+msgstr ""
+
+#: ../../source/eipa.rst:4870
+msgid "Provisions Providing for Rates of Duty"
+msgstr ""
+
+#: ../../source/eipa.rst:4873
+msgid "Appendix 5.1 to Annex C-00-B of CCFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4873
+msgid ""
+"Schedules to Annex C-02.2 of CCFTA, in accordance with Appendix 5.1 to "
+"Annex C-00-B of CCFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4880
+msgid "Appendix III.1.6.1 to Annex III.1 of CCRFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4880
+msgid ""
+"Schedules to Annex III.3.1 of CCRFTA, in accordance with Appendix "
+"III.1.6.1 to Annex III.1 of CCRFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4887
+msgid ""
+"Annex 5-A to Annex 5 of the Protocol on Rules of Origin and Origin "
+"Procedures of CETA, as incorporated by reference in CUKTCA"
+msgstr ""
+
+#: ../../source/eipa.rst:4887
+msgid ""
+"Annex 2-A of CETA, in accordance with Annex 5-A to Annex 5 of the "
+"Protocol on Rules of Origin and Origin Procedures of CETA, as "
+"incorporated by reference in CUKTCA"
+msgstr ""
+
+#: ../../source/eipa.rst:4897
+msgid "Annex 6-A"
+msgstr ""
+
+#: ../../source/eipa.rst:4897
+msgid "Schedules to Annex 2-B in accordance with Section C of Annex 6-A"
+msgstr ""
+
+#: ../../source/eipa.rst:4902
+msgid ""
+"Annex 5-A to Annex 5 of the Protocol on Rules of Origin and Origin "
+"Procedures of CETA"
+msgstr ""
+
+#: ../../source/eipa.rst:4902
+msgid ""
+"Annex 2-A of CETA, in accordance with Annex 5-A to Annex 5 of the "
+"Protocol on Rules of Origin and Origin Procedures of CETA"
+msgstr ""
+
+#: ../../source/eipa.rst:4910
+msgid "Section 5 of Annex 3.1 of CHFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4910
+msgid ""
+"Schedules to Annex 3.4.1 of CHFTA, in accordance with section 5 of Annex "
+"3.1 of CHFTA"
+msgstr ""
+
+#: ../../source/eipa.rst:4920
+msgid "`2020, c. 1, s. 51 <#1237644-1253606>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4924
+msgid "1237644-1253606"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 51"
+msgstr ""
+
+#: ../../source/eipa.rst:4932
+msgid ""
+"**51** Schedule 4 to the Act is amended by striking out, in column 1, the"
+" reference to “NAFTA country”, the corresponding reference in column 2 to"
+" “Appendix 6 to Annex 300-B of NAFTA” and the corresponding reference in "
+"column 3 to “Schedules to Annex 302.2 of NAFTA, in accordance with "
+"Appendix 6 to Annex 300-B of NAFTA”."
+msgstr ""
+
+#: ../../source/eipa.rst:4941
+msgid "`2020, c. 1, s. 52 <#1237645-1253608>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4945
+msgid "1237645-1253608"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2020, c. 1, s. 52"
+msgstr ""
+
+#: ../../source/eipa.rst:4953
+msgid ""
+"**52** Schedule 4 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUSMA country” in column 1, a corresponding reference to"
+" “Annex 6-A” in column 2 and a corresponding reference to “Schedules to "
+"Annex 2-B in accordance with Section C of Annex 6-A” in column 3."
+msgstr ""
+
+#: ../../source/eipa.rst:4961
+msgid "`2021, c. 1, s. 19 <#1288320-1291238>`__"
+msgstr ""
+
+#: ../../source/eipa.rst:4965
+msgid "1288320-1291238"
+msgstr ""
+
+#: ../../source/eipa.rst
+msgid "2021, c. 1, s. 19"
+msgstr ""
+
+#: ../../source/eipa.rst:4973
+msgid ""
+"**19** Schedule 4 to the Act is amended by adding, in alphabetical order,"
+" a reference to “CUKTCA beneficiary” in column 1, a corresponding "
+"reference to “Annex 5-A to Annex 5 of the Protocol on Rules of Origin and"
+" Origin Procedures of CETA, as incorporated by reference in CUKTCA” in "
+"column 2 and a corresponding reference to “Annex 2-A of CETA, in "
+"accordance with Annex 5-A to Annex 5 of the Protocol on Rules of Origin "
+"and Origin Procedures of CETA, as incorporated by reference in CUKTCA” in"
+" column 3."
+msgstr ""
+
+#: ../../source/eipa.rst:4989
+msgid "`Previous Version <section-sched203448-20200701.html>`__"
+msgstr ""
+

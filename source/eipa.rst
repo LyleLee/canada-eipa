@@ -1,3 +1,7 @@
+######################################################
+Canada Export and Import Permit Act
+######################################################
+
 .. container:: docContents
    :name: docCont
 
