@@ -58,3 +58,6 @@ html_static_path = ['_static']
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 
+# Generate Chinese version
+language = 'zh_CN'
+html_search_language = 'zh_CN'
